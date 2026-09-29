@@ -44,6 +44,11 @@ and passes after it.
 </picture>
 
 <!-- merged:start -->
+Merged upstream:
+
+- [playcanvas/splat-transform#336](https://github.com/playcanvas/splat-transform/pull/336), normalize rotations before quantizing them in the .splat writer
+- [NVIDIA/cudf#24310](https://github.com/NVIDIA/cudf/pull/24310), keep the time of day in cudf-polars `dt.month_start` and `dt.month_end`
+- [kornia/kornia#5079](https://github.com/kornia/kornia/pull/5079), compute mean_average_precision recall per class
 <!-- merged:end -->
 
 ### Selected work
