@@ -15,9 +15,6 @@ number rather than raising. Each report carries a reproduction a maintainer can 
 that fails on the released version and passes after the fix.
 
 <!-- merged:start -->
-Merged upstream:
-
-- [infer-actively/pymdp#442](https://github.com/infer-actively/pymdp/pull/442), label lists on multiple axes select blocks instead of diagonals
 <!-- merged:end -->
 
 Reported here, fixed upstream by someone else:
