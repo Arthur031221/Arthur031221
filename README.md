@@ -39,8 +39,8 @@ concurrency bugs. Each pull request carries a reproduction a maintainer can run 
 and passes after it.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg">
-  <img src="assets/oss-light.svg" alt="Open source contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=2">
+  <img src="assets/oss-light.svg?v=2" alt="Open source contributions">
 </picture>
 
 <!-- merged:start -->
