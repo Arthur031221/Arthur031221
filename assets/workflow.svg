@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+  <title id="title">How I work</title>
+  <desc id="desc">Reproduce a problem, build a tested fix, and contribute it upstream</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#12324d"/></linearGradient>
+    <linearGradient id="route" x2="1"><stop stop-color="#4a9df0"/><stop offset=".5" stop-color="#7de0ed"/><stop offset="1" stop-color="#71d7aa"/></linearGradient>
+    <clipPath id="clip"><rect width="1200" height="132" rx="16"/></clipPath>
+    <style>
+      .signal { animation: travel 5.5s ease-in-out infinite; }
+      .signal.two { animation-delay: -2.75s; }
+      @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 10%,90% { opacity: 1; } 100% { transform: translateX(872px); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="132" fill="url(#bg)"/>
+    <path d="M156 57H1044" fill="none" stroke="url(#route)" stroke-width="3" stroke-opacity=".6"/>
+    <g fill="#112c49" stroke="#7bdce6" stroke-width="2">
+      <circle cx="156" cy="57" r="13"/>
+      <circle cx="600" cy="57" r="13"/>
+      <circle cx="1044" cy="57" r="13"/>
+    </g>
+    <g fill="#b9f2ef">
+      <circle cx="156" cy="57" r="5"/>
+      <circle cx="600" cy="57" r="5"/>
+      <circle cx="1044" cy="57" r="5"/>
+      <circle class="signal" cx="156" cy="57" r="4"/>
+      <circle class="signal two" cx="156" cy="57" r="4"/>
+    </g>
+    <g fill="#d8eafa" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="middle">
+      <text x="156" y="103">REPRODUCE</text>
+      <text x="600" y="103">TEST THE FIX</text>
+      <text x="1044" y="103">MERGE UPSTREAM</text>
+    </g>
+  </g>
+</svg>

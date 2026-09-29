@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Chi-Wei Lee</title>
+  <desc id="desc">NeuroAI research, scientific software, and reliable developer tools</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#080f20"/>
+      <stop offset=".58" stop-color="#10244b"/>
+      <stop offset="1" stop-color="#092b3d"/>
+    </linearGradient>
+    <linearGradient id="line" x2="1">
+      <stop stop-color="#52a7ff"/>
+      <stop offset="1" stop-color="#61eadb"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#2ca9df" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#2ca9df" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#88b9e6" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="20"/></clipPath>
+    <style>
+      .orbit { transform-origin: 948px 160px; animation: orbit 36s linear infinite; }
+      .reverse { transform-origin: 948px 160px; animation: orbit 48s linear infinite reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .scan { animation: scan 7s ease-in-out infinite alternate; }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @keyframes pulse { 50% { opacity: .45; } }
+      @keyframes scan { from { transform: translateX(-120px); opacity: 0; } 25%,75% { opacity: .28; } to { transform: translateX(1180px); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .orbit, .reverse, .pulse, .scan { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect x="680" y="-110" width="540" height="540" fill="url(#glow)"/>
+    <path d="M0 318H1200" stroke="url(#line)" stroke-width="4"/>
+    <path class="scan" d="M0 0V320" stroke="#8fe7ff" stroke-width="2"/>
+
+    <text x="72" y="92" fill="#71d9df" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="3">RESEARCH  /  SYSTEMS  /  OPEN SOURCE</text>
+    <text x="68" y="167" fill="#f4f8ff" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Chi-Wei Lee</text>
+    <path d="M72 190H568" stroke="url(#line)" stroke-width="2"/>
+    <text x="72" y="229" fill="#bbd4f3" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22">NeuroAI · scientific software · developer tools</text>
+    <text x="72" y="272" fill="#789bbf" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">NTHU  /  TAIWAN</text>
+
+    <g fill="none" stroke="#70cde3" stroke-opacity=".28">
+      <circle cx="948" cy="160" r="111"/>
+      <circle cx="948" cy="160" r="76"/>
+      <circle cx="948" cy="160" r="43"/>
+      <path d="M790 160H1106M948 2V318" stroke-opacity=".15"/>
+    </g>
+    <g class="orbit" fill="none" stroke="url(#line)" stroke-width="2">
+      <circle cx="948" cy="160" r="111" stroke-dasharray="140 558"/>
+      <circle cx="948" cy="49" r="5" fill="#72e5de" stroke="none"/>
+    </g>
+    <g class="reverse" fill="none" stroke="#7fb9ff" stroke-width="2">
+      <circle cx="948" cy="160" r="76" stroke-dasharray="90 388"/>
+      <circle cx="1024" cy="160" r="4" fill="#7fb9ff" stroke="none"/>
+    </g>
+    <g stroke="#7bb9db" stroke-opacity=".48" stroke-width="1.5">
+      <path d="M905 157L948 117L996 148L963 199L905 157M948 117L963 199M996 148L948 160"/>
+    </g>
+    <g fill="#92e5ef">
+      <circle cx="905" cy="157" r="5"/>
+      <circle cx="948" cy="117" r="5"/>
+      <circle cx="996" cy="148" r="5"/>
+      <circle cx="963" cy="199" r="5"/>
+      <circle class="pulse" cx="948" cy="160" r="9" fill="#d4faff"/>
+    </g>
+  </g>
+</svg>
