@@ -59,19 +59,29 @@ Merged upstream:
 - [MatrixQR](https://github.com/Arthur031221/MatrixQR), video generation that keeps a QR code scannable while it is stylised
 - [Arthur031221.github.io](https://github.com/Arthur031221/Arthur031221.github.io), bilingual research site, static HTML with no framework or runtime dependency
 
-### Local tools
+### Projects I build
+
+A few things you can try right away:
+
+- [agentleaks](https://github.com/Arthur031221/agentleaks): scan local coding-agent histories for exposed API keys and redact them before sharing logs.
+- [inference-visually](https://arthur031221.github.io/inference-visually/): explore KV cache, batching and attention with interactive diagrams.
+- [slopblock](https://github.com/Arthur031221/slopblock): inspect why a browser post was flagged as likely AI-generated before deciding whether to blur it.
 
 | Project | What it does |
 | --- | --- |
-| [agentleaks](https://github.com/Arthur031221/agentleaks) | Finds and redacts API keys in local coding agent histories. |
-| [modelshift](https://github.com/Arthur031221/modelshift) | Scans code for model IDs and checks migrations before a model retires. |
-| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | Diagnoses local model installs, duplicate weights and stale configuration. |
-| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explanations of how LLM inference works. |
-| [slopblock](https://github.com/Arthur031221/slopblock) | Blurs likely AI-generated feed posts in the browser, with a reason for each match. |
-| [snipmd](https://github.com/Arthur031221/snipmd) | Captures a screen region and converts it to Markdown, LaTeX or a table offline. |
-| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Keeps a coding agent on a task until it finishes or names a blocker. |
-| [songforge](https://github.com/Arthur031221/songforge) | Generates songs with vocals and covers locally on Apple Silicon. |
+| [agentleaks](https://github.com/Arthur031221/agentleaks) | Finds and redacts API keys in local coding-agent histories. |
 | [shiftgear](https://github.com/Arthur031221/shiftgear) | Routes coding tasks to a model and effort level across agent tools. |
+| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explanations of the LLM serving stack. |
+| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | Diagnoses local model installs, duplicate weights and stale configuration. |
+| [modelshift](https://github.com/Arthur031221/modelshift) | Scans code for model IDs and checks migrations before a model retires. |
+| [slopblock](https://github.com/Arthur031221/slopblock) | Blurs likely AI-generated feed posts in the browser and explains each match. |
+| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Keeps a coding agent on a task until it finishes or names a blocker. |
+| [snipmd](https://github.com/Arthur031221/snipmd) | Captures a screen region as Markdown, LaTeX or a table offline. |
+| [songforge](https://github.com/Arthur031221/songforge) | Generates songs with vocals and covers locally on Apple Silicon. |
+| [gpuwho](https://github.com/Arthur031221/gpuwho) | Shows GPU use alongside local LLM processes on Apple Silicon. |
+| [papercompass](https://github.com/Arthur031221/papercompass) | Recommends papers from your own arXiv library. |
+| [cardsmith](https://github.com/Arthur031221/cardsmith) | Turns PDFs, slides and notes into offline flashcards. |
+| [installwall](https://github.com/Arthur031221/installwall) | Checks package installs for typosquats and known supply-chain risks. |
 
 ### Activity
 
