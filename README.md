@@ -14,12 +14,17 @@ I look for correctness defects in scientific Python libraries, the kind that ret
 number rather than raising. Each report carries a reproduction a maintainer can run, and a test
 that fails on the released version and passes after the fix.
 
-Merged upstream:
+<!-- merged:start -->
+Merged upstream, 7 pull requests in 5 projects:
 
-- [stanfordnlp/stanza#1663](https://github.com/stanfordnlp/stanza/pull/1663), convert a multi word token id back to a tuple when a Document is rebuilt
-- [stanfordnlp/stanza#1664](https://github.com/stanfordnlp/stanza/pull/1664), keep empty words out of the token list
+- [playcanvas/supersplat#1059](https://github.com/playcanvas/supersplat/pull/1059), strip upper-case extensions from the default export filename
+- [mpi4py/mpi4py#797](https://github.com/mpi4py/mpi4py/pull/797), raise in util.sync.Condition.locked() after free()
+- [MultiQC/MultiQC#3660](https://github.com/MultiQC/MultiQC/pull/3660), mosdepth: fix Y bar label in the XY coverage plot
 - [stanfordnlp/stanza#1665](https://github.com/stanfordnlp/stanza/pull/1665), interleave empty words per word rather than per token
-- [infer-actively/pymdp#442](https://github.com/infer-actively/pymdp/pull/442), label lists on multiple axes selected diagonals instead of blocks
+- [stanfordnlp/stanza#1664](https://github.com/stanfordnlp/stanza/pull/1664), keep empty words out of the token list when a Document is built from dicts
+- [stanfordnlp/stanza#1663](https://github.com/stanfordnlp/stanza/pull/1663), convert a multi word token id back to a tuple when a Document is built from dicts
+- [infer-actively/pymdp#442](https://github.com/infer-actively/pymdp/pull/442), label lists on multiple axes select blocks instead of diagonals
+<!-- merged:end -->
 
 Reported here, fixed upstream by someone else:
 
