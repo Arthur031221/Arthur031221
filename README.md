@@ -19,7 +19,7 @@ Taiwan Global Pathfinders program.
 
 ### Highlights
 
-- **2nd of 609 teams**, 2025 NSF HDR ML Challenge on anomaly detection, as team captain; 2nd in the gravitational-wave track
+- **2nd of 609 teams**, 2025 NSF HDR ML Challenge on anomaly detection as team captain. Also placed 2nd in the gravitational-wave track.
 - **2nd worldwide**, climate prediction track, 2026 NSF HDR ML Challenge on out-of-distribution generalization
 - Presented our NSF HDR solution at an **AAAI-25 workshop** in Philadelphia
 - **Four submissions under review at ICLR 2027**, one as first author
@@ -53,6 +53,20 @@ and passes after it.
 - [quantum-allosteric-scanner](https://github.com/Arthur031221/quantum-allosteric-scanner), continuous time quantum walk prediction of allosteric sites from a single unbound protein structure
 - [MatrixQR](https://github.com/Arthur031221/MatrixQR), video generation that keeps a QR code scannable while it is stylised
 - [Arthur031221.github.io](https://github.com/Arthur031221/Arthur031221.github.io), bilingual research site, static HTML with no framework or runtime dependency
+
+### Local tools
+
+| Project | What it does |
+| --- | --- |
+| [agentleaks](https://github.com/Arthur031221/agentleaks) | Finds and redacts API keys in local coding agent histories. |
+| [modelshift](https://github.com/Arthur031221/modelshift) | Scans code for model IDs and checks migrations before a model retires. |
+| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | Diagnoses local model installs, duplicate weights and stale configuration. |
+| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explanations of how LLM inference works. |
+| [slopblock](https://github.com/Arthur031221/slopblock) | Blurs likely AI-generated feed posts in the browser, with a reason for each match. |
+| [snipmd](https://github.com/Arthur031221/snipmd) | Captures a screen region and converts it to Markdown, LaTeX or a table offline. |
+| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Keeps a coding agent on a task until it finishes or names a blocker. |
+| [songforge](https://github.com/Arthur031221/songforge) | Generates songs with vocals and covers locally on Apple Silicon. |
+| [shiftgear](https://github.com/Arthur031221/shiftgear) | Routes coding tasks to a model and effort level across agent tools. |
 
 ### Activity
 
