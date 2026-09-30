@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Chi-Wei Lee at NTHU. Physics and EECS, HMI Lab, NeuroAI research." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1220,60:13306b,100:1d4ed8&text=Chi-Wei%20Lee&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=16&descAlignY=58&descColor=dbeafe" alt="Chi-Wei Lee" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Decoding+3D+space+from+human+brain+activity;Predictive+coding+and+Bayesian+inference;Fixing+correctness+bugs+in+GPU+and+scientific+software" alt="Research focus"/>
+
+<a href="https://arthur031221.github.io/"><img src="https://img.shields.io/badge/Website-arthur031221.github.io-2563eb?style=flat-square" alt="Website"/></a>
+<img src="https://img.shields.io/badge/NTHU-Physics%20%2B%20EECS%20(AI)-6e7781?style=flat-square" alt="NTHU Physics and EECS AI"/>
+<img src="https://img.shields.io/badge/PhD%20applicant-2027-16a34a?style=flat-square" alt="PhD applicant 2027"/>
 </div>
 
 <p align="center">
-  <a href="https://arthur031221.github.io/">Research website</a> ·
   <a href="https://github.com/Arthur031221?tab=repositories">All repositories</a> ·
   <a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged">Merged pull requests</a>
 </p>
