@@ -1,6 +1,6 @@
 <a href="https://arthur031221.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Chi-Wei Lee: decoding 3D space from the human brain"></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/honors-dark.svg"><img src="assets/honors-light.svg" width="100%" alt="Mei Yi-Chi Memorial Medal; 2nd of 609 teams in the NSF HDR ML Challenge 2025; four papers under review at ICLR 2027; iGEM 2023 Gold Medal; 1st place at the Mei-Chu Hackathon 2025"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/honors-dark.svg"><img src="assets/honors-light.svg" width="100%" alt="Mei Yi-Chi Memorial Medal, NTHU&#x27;s top graduating honor; 2nd of 609 teams in the NSF HDR ML Challenge 2025; four papers under review at ICLR 2027; iGEM 2023 Gold Medal; 1st place at the Mei-Chu Hackathon 2025"></picture>
 
 ### Research
 
