@@ -43,7 +43,7 @@ chi_wei_lee = {
 
 ### Experience
 
-| | |
+| Where | Role |
 |:--|:--|
 | <img src="https://img.shields.io/badge/HMI%20Lab-2026%20to%20now-0f766e?style=flat-square" alt="HMI Lab: 2026 to now"/> | Undergraduate researcher, National Tsing Hua University. Generative decoders for 3D spatial structure from fMRI |
 | <img src="https://img.shields.io/badge/UCLA-Jul%20to%20Sep%202026-2774AE?style=flat-square" alt="UCLA: Jul to Sep 2026"/> | Visiting research delegate, AI and neuroscience track, one of 9 selected nationally |
