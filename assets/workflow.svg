@@ -1,36 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-labelledby="title desc">
   <title id="title">How I work</title>
-  <desc id="desc">Reproduce a problem, build a tested fix, and contribute it upstream</desc>
+  <desc id="desc">Reproduce a failure, prove the fix with tests, and contribute a reviewable patch upstream</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1428"/><stop offset="1" stop-color="#12324d"/></linearGradient>
-    <linearGradient id="route" x2="1"><stop stop-color="#4a9df0"/><stop offset=".5" stop-color="#7de0ed"/><stop offset="1" stop-color="#71d7aa"/></linearGradient>
-    <clipPath id="clip"><rect width="1200" height="132" rx="16"/></clipPath>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0c131b"/>
+      <stop offset="1" stop-color="#14212b"/>
+    </linearGradient>
+    <linearGradient id="path" x2="1">
+      <stop stop-color="#79d8c5"/>
+      <stop offset="1" stop-color="#d2ac76"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="168" rx="14"/></clipPath>
     <style>
-      .signal { animation: travel 5.5s ease-in-out infinite; }
-      .signal.two { animation-delay: -2.75s; }
-      @keyframes travel { 0% { transform: translateX(0); opacity: 0; } 10%,90% { opacity: 1; } 100% { transform: translateX(872px); opacity: 0; } }
-      @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } }
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif; }
+      .runner { animation: move 7s ease-in-out infinite; }
+      .runner.two { animation-delay: -3.5s; }
+      .connector { animation: flow 6s linear infinite; }
+      @keyframes move { 0% { transform: translateX(0); opacity: 0; } 10%,90% { opacity: 1; } 100% { transform: translateX(758px); opacity: 0; } }
+      @keyframes flow { to { stroke-dashoffset: -88; } }
+      @media (prefers-reduced-motion: reduce) { .runner, .connector { animation: none; } .runner { opacity: 0; } }
     </style>
   </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="132" fill="url(#bg)"/>
-    <path d="M156 57H1044" fill="none" stroke="url(#route)" stroke-width="3" stroke-opacity=".6"/>
-    <g fill="#112c49" stroke="#7bdce6" stroke-width="2">
-      <circle cx="156" cy="57" r="13"/>
-      <circle cx="600" cy="57" r="13"/>
-      <circle cx="1044" cy="57" r="13"/>
-    </g>
-    <g fill="#b9f2ef">
-      <circle cx="156" cy="57" r="5"/>
-      <circle cx="600" cy="57" r="5"/>
-      <circle cx="1044" cy="57" r="5"/>
-      <circle class="signal" cx="156" cy="57" r="4"/>
-      <circle class="signal two" cx="156" cy="57" r="4"/>
-    </g>
-    <g fill="#d8eafa" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" text-anchor="middle">
-      <text x="156" y="103">REPRODUCE</text>
-      <text x="600" y="103">TEST THE FIX</text>
-      <text x="1044" y="103">MERGE UPSTREAM</text>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="168" fill="url(#bg)"/>
+    <path d="M0 0H1200" stroke="#4f6b73" stroke-opacity=".65"/>
+    <text x="53" y="29" class="mono" fill="#82d7c4" font-size="12" letter-spacing="2">METHOD / CORRECTNESS FIRST</text>
+    <path d="M209 81H985" stroke="url(#path)" stroke-width="2" stroke-opacity=".56"/>
+    <path class="connector" d="M370 93H441M759 93H830" stroke="#83ddc9" stroke-width="2" stroke-dasharray="10 12"/>
+    <circle class="runner" cx="209" cy="81" r="4" fill="#a5e9d9"/>
+    <circle class="runner two" cx="209" cy="81" r="3" fill="#d2ac76"/>
+    <g class="mono" font-size="12">
+      <g transform="translate(53 45)">
+        <rect width="316" height="96" rx="8" fill="#192934" stroke="#49636d"/>
+        <text x="17" y="28" fill="#d2ac76" letter-spacing="1">01 / REPRODUCE</text>
+        <text x="17" y="59" class="sans" fill="#f2f4ed" font-size="19" font-weight="600">A small failing case</text>
+        <text x="17" y="79" class="sans" fill="#9ab2b8" font-size="13">Make the wrong answer visible.</text>
+      </g>
+      <g transform="translate(442 45)">
+        <rect width="316" height="96" rx="8" fill="#192934" stroke="#49636d"/>
+        <text x="17" y="28" fill="#d2ac76" letter-spacing="1">02 / VERIFY</text>
+        <text x="17" y="59" class="sans" fill="#f2f4ed" font-size="19" font-weight="600">A test that proves the fix</text>
+        <text x="17" y="79" class="sans" fill="#9ab2b8" font-size="13">Fail before. Pass after.</text>
+      </g>
+      <g transform="translate(831 45)">
+        <rect width="316" height="96" rx="8" fill="#192934" stroke="#49636d"/>
+        <text x="17" y="28" fill="#d2ac76" letter-spacing="1">03 / CONTRIBUTE</text>
+        <text x="17" y="59" class="sans" fill="#f2f4ed" font-size="19" font-weight="600">A reviewable patch</text>
+        <text x="17" y="79" class="sans" fill="#9ab2b8" font-size="13">Share the evidence upstream.</text>
+      </g>
     </g>
   </g>
 </svg>

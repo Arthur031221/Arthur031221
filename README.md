@@ -1,41 +1,49 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Chi-Wei Lee | NeuroAI research, scientific software, and reliable developer tools" />
-
-  [Research website](https://arthur031221.github.io/) · [Projects](https://github.com/Arthur031221?tab=repositories) · [Merged upstream contributions](https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+  <img src="assets/hero.svg" width="100%" alt="Chi-Wei Lee at NTHU. Physics and EECS, HMI Lab, NeuroAI research." />
 </div>
 
-I am **Chi-Wei Lee**, a Physics and EECS (AI track) double major at National Tsing Hua University, Taiwan. At the HMI Lab, I work on generative models that reconstruct 3D spatial structure from fMRI. I also build open source tools and fix correctness bugs in scientific and GPU software. My research interests include predictive coding, associative memory, and sampling-based inference.
+<p align="center">
+  <a href="https://arthur031221.github.io/">Research website</a> ·
+  <a href="https://github.com/Arthur031221?tab=repositories">All repositories</a> ·
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged">Merged pull requests</a>
+</p>
 
-### Featured repositories
+I am **Chi-Wei Lee**, a Physics and EECS (AI track) double major at National Tsing Hua University. At the HMI Lab, I work on generative models that reconstruct 3D spatial structure from fMRI. I also build local developer tools and fix correctness bugs in scientific software. My interests span predictive coding, associative memory, and sampling-based inference.
 
-| Project | Why it exists |
+### Selected work
+
+| I build | I contribute upstream |
 | --- | --- |
-| [quantum-allosteric-scanner](https://github.com/Arthur031221/quantum-allosteric-scanner) | Predicts protein allosteric sites from one unbound structure with continuous-time quantum walks. |
-| [agentleaks](https://github.com/Arthur031221/agentleaks) | Finds and redacts exposed API keys in local coding-agent histories. |
-| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive, browser-based explanations of LLM inference. [Try the live demo](https://arthur031221.github.io/inference-visually/). |
-| [NVIDIA cuDF](https://github.com/NVIDIA/cudf) | GPU dataframe library where I contributed two merged correctness fixes. |
-| [Stanza](https://github.com/stanfordnlp/stanza) | NLP toolkit where I contributed three merged token-reconstruction fixes. |
-| [Kornia](https://github.com/kornia/kornia) | Computer vision library where I fixed a per-class detection metric. |
+| [quantum-allosteric-scanner](https://github.com/Arthur031221/quantum-allosteric-scanner) explores protein allosteric sites from one unbound structure with continuous-time quantum walks. | [NVIDIA cuDF](https://github.com/NVIDIA/cudf): fixed [empty-string joins](https://github.com/NVIDIA/cudf/pull/24308) and [time-of-day loss](https://github.com/NVIDIA/cudf/pull/24310). |
+| [agentleaks](https://github.com/Arthur031221/agentleaks) finds and redacts exposed API keys in local coding-agent histories. | [Stanza](https://github.com/stanfordnlp/stanza): repaired multi-word token reconstruction in [three merged PRs](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+is%3Amerged+author%3AArthur031221). |
+| [inference-visually](https://github.com/Arthur031221/inference-visually) makes LLM inference mechanics explorable in the browser. [Open the live demo](https://arthur031221.github.io/inference-visually/). | [Kornia](https://github.com/kornia/kornia): corrected [per-class recall in mean average precision](https://github.com/kornia/kornia/pull/5079). |
 
-### Merged upstream work
+This selection connects research software, practical systems work, and fixes merged into established libraries. The links point to runnable projects or reviewable pull requests.
 
-| Project | Contribution |
-| --- | --- |
-| [NVIDIA cuDF](https://github.com/NVIDIA/cudf) | Fixed [empty strings becoming null in `Series.str.join`](https://github.com/NVIDIA/cudf/pull/24308) and [time-of-day loss at month boundaries](https://github.com/NVIDIA/cudf/pull/24310). |
-| [Stanza](https://github.com/stanfordnlp/stanza) | Repaired multi-word token reconstruction across [three merged PRs](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+is%3Amerged+author%3AArthur031221). |
-| [Kornia](https://github.com/kornia/kornia) | Corrected [per-class recall in mean average precision](https://github.com/kornia/kornia/pull/5079). |
-| [Burn](https://github.com/tracel-ai/burn) | Clamped probabilities in [label-smoothed cross entropy](https://github.com/tracel-ai/burn/pull/5892). |
-| [pymdp](https://github.com/infer-actively/pymdp) | Fixed [label-list indexing to select blocks instead of diagonals](https://github.com/infer-actively/pymdp/pull/442). |
-| [braindecode](https://github.com/braindecode/braindecode) | Corrected [Hilbert-frequency output length and Nyquist handling](https://github.com/braindecode/braindecode/pull/1188). |
+### More upstream fixes
 
-I focus on bugs that produce wrong answers, with reproducible cases and regression tests.
-
-### More work
-
-My research and creative projects include [X-Ray](https://github.com/Arthur031221/X-Ray), [NSF-HDR](https://github.com/Arthur031221/NSF-HDR), [MatrixQR](https://github.com/Arthur031221/MatrixQR), and my [bilingual research website](https://arthur031221.github.io/). I also build practical local tools: [gpuwho](https://github.com/Arthur031221/gpuwho), [papercompass](https://github.com/Arthur031221/papercompass), [installwall](https://github.com/Arthur031221/installwall), [cardsmith](https://github.com/Arthur031221/cardsmith), [modelshift](https://github.com/Arthur031221/modelshift), [llm-doctor](https://github.com/Arthur031221/llm-doctor), [slopblock](https://github.com/Arthur031221/slopblock), [snipmd](https://github.com/Arthur031221/snipmd), [cliffhanger](https://github.com/Arthur031221/cliffhanger), [songforge](https://github.com/Arthur031221/songforge), and [shiftgear](https://github.com/Arthur031221/shiftgear).
-
-I captained a team that placed **2nd of 609** in the 2025 NSF HDR ML Challenge anomaly-detection track. I also visited UCLA Samueli through the Taiwan Global Pathfinders program in 2026. [More about my research and experience](https://arthur031221.github.io/).
+- [Burn](https://github.com/tracel-ai/burn/pull/5892): clamped probabilities in label-smoothed cross entropy.
+- [pymdp](https://github.com/infer-actively/pymdp/pull/442): fixed label-list indexing that selected diagonals instead of blocks.
+- [braindecode](https://github.com/braindecode/braindecode/pull/1188): corrected Hilbert-frequency output length and Nyquist handling.
 
 <div align="center">
-  <img src="assets/workflow.svg" width="100%" alt="A loop from a reproducible problem through a tested fix to an upstream merge" />
+  <img src="assets/workflow.svg" width="100%" alt="My approach: reproduce a failure, verify the fix, and contribute a reviewable patch." />
+</div>
+
+### Beyond the pins
+
+I also maintain tools for [model migration](https://github.com/Arthur031221/modelshift), [local LLM diagnostics](https://github.com/Arthur031221/llm-doctor), [GPU visibility](https://github.com/Arthur031221/gpuwho), [offline math capture](https://github.com/Arthur031221/snipmd), and [paper discovery](https://github.com/Arthur031221/papercompass). Research and creative projects include [X-Ray](https://github.com/Arthur031221/X-Ray), [NSF-HDR](https://github.com/Arthur031221/NSF-HDR), and [MatrixQR](https://github.com/Arthur031221/MatrixQR).
+
+I captained a team that placed **2nd of 609** in the 2025 NSF HDR ML Challenge anomaly-detection track and visited UCLA Samueli through the Taiwan Global Pathfinders program in 2026. [Research and experience](https://arthur031221.github.io/).
+
+### A small contribution trace
+
+The snake follows my public contribution graph. Its source image is refreshed by a scheduled GitHub Action, so the drawing changes with the graph rather than displaying a fixed activity claim.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur031221/Arthur031221/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthur031221/Arthur031221/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Arthur031221/Arthur031221/output/snake.svg" width="100%" alt="Animated snake moving through Chi-Wei Lee's public GitHub contribution graph." />
+  </picture>
 </div>
