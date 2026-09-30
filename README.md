@@ -36,9 +36,51 @@ This selection connects research software, practical systems work, and fixes mer
   <img src="assets/workflow.svg" width="100%" alt="My approach: reproduce a failure, verify the fix, and contribute a reviewable patch." />
 </div>
 
-### Beyond the pins
+### Local-first tools
 
-I also maintain tools for [model migration](https://github.com/Arthur031221/modelshift), [local LLM diagnostics](https://github.com/Arthur031221/llm-doctor), [GPU visibility](https://github.com/Arthur031221/gpuwho), [offline math capture](https://github.com/Arthur031221/snipmd), and [paper discovery](https://github.com/Arthur031221/papercompass). Research and creative projects include [X-Ray](https://github.com/Arthur031221/X-Ray), [NSF-HDR](https://github.com/Arthur031221/NSF-HDR), and [MatrixQR](https://github.com/Arthur031221/MatrixQR).
+Twenty small tools, built and shipped end to end over one long session. Each ships as a complete v1 with tests, CI, and a README that states what it does not do.
+
+**Security and supply chain**
+
+| Project | What it does |
+| --- | --- |
+| [agentleaks](https://github.com/Arthur031221/agentleaks) | Finds, redacts, and blocks the API keys left in Claude Code, Codex, Cursor, Gemini CLI, Cline, and Aider history. Single binary. |
+| [installwall](https://github.com/Arthur031221/installwall) | Checks direct npm, pip, gem, and cargo installs for typosquats, brand-new packages, and known malicious names. |
+| [slopblock](https://github.com/Arthur031221/slopblock) | Adblock for AI slop. Blurs machine-written posts in your feeds on-device and shows why. Chrome and Firefox. |
+| [docling-guard](https://github.com/Arthur031221/docling-guard) | Offline provenance validation and regression checks for Docling JSON. |
+
+**Local LLM tooling**
+
+| Project | What it does |
+| --- | --- |
+| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | brew doctor for local LLMs. Dedupes Ollama, LM Studio, HF, and MLX weights, catches stale templates, probes agent endpoints. |
+| [modelshift](https://github.com/Arthur031221/modelshift) | Finds model IDs in your repo that retire soon, replays real prompts on the replacement, opens the migration PR. |
+| [gpuwho](https://github.com/Arthur031221/gpuwho) | Live per-process GPU use next to named local LLM processes on Apple Silicon, with optional Neural Engine power. |
+| [mlxtrace](https://github.com/Arthur031221/mlxtrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline. |
+| [ollama-verify](https://github.com/Arthur031221/ollama-verify) | Read-only integrity and storage audit for local Ollama models. |
+| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explainers of the LLM serving stack. KV cache, paged attention, continuous batching, prefix caching, speculative decoding, measured on my own Mac. [Live demo](https://arthur031221.github.io/inference-visually/). |
+| [shiftgear](https://github.com/Arthur031221/shiftgear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, with quota awareness. |
+| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Stop hook and skill that keeps Claude Code from ending a turn with work still owed, and counts every early stop. |
+
+**Apple Silicon media and documents**
+
+| Project | What it does |
+| --- | --- |
+| [snipmd](https://github.com/Arthur031221/snipmd) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternative for macOS with GLM-OCR. |
+| [songforge](https://github.com/Arthur031221/songforge) | Local Suno-style song studio for Apple Silicon. Lyrics to full songs with vocals and covers through YuE2 on MLX. |
+| [reelrecipe](https://github.com/Arthur031221/reelrecipe) | Turns local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON export. |
+| [labexplain](https://github.com/Arthur031221/labexplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional local OCR. |
+| [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminders. |
+| [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export to Anki. |
+| [papercompass](https://github.com/Arthur031221/papercompass) | Recommendations over my own arXiv library, offline after setup. Not another digest bot. |
+
+**Automation**
+
+| Project | What it does |
+| --- | --- |
+| [oss-launchbot](https://github.com/Arthur031221/oss-launchbot) | Policy-aware launch queue and guarded Reddit posting for open-source repositories. |
+
+Research and creative side projects include [X-Ray](https://github.com/Arthur031221/X-Ray), [NSF-HDR](https://github.com/Arthur031221/NSF-HDR), and [MatrixQR](https://github.com/Arthur031221/MatrixQR).
 
 I captained a team that placed **2nd of 609** in the 2025 NSF HDR ML Challenge anomaly-detection track and visited UCLA Samueli through the Taiwan Global Pathfinders program in 2026. [Research and experience](https://arthur031221.github.io/).
 
