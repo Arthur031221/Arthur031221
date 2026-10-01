@@ -15,6 +15,20 @@ My recent research asks how the brain represents and infers the space around us:
 and camera motion, letting predictive coding carry full posterior distributions instead of single point estimates, and
 understanding when associative memory defines a well-behaved energy and why sampling-based predictive coding generalizes.
 
+### 🌟 Featured contributions
+
+<table>
+<tr><td width="50%" valign="top"><strong>🔥 <a href="https://github.com/tracel-ai/burn">burn</a></strong> <img src="https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square" alt="Stars for tracel-ai/burn"/><br>Corrected Burn tensor roll direction.<ul><li>Positive shifts now match PyTorch.</li><li>Independent reference tests verified the fix.</li></ul><br><a href="https://github.com/tracel-ai/burn/pull/5912">View the pull request</a></td><td width="50%" valign="top"><strong>☁️ <a href="https://github.com/CloudCompare/CloudCompare">CloudCompare</a></strong> <img src="https://img.shields.io/github/stars/CloudCompare/CloudCompare?style=flat-square" alt="Stars for CloudCompare/CloudCompare"/><br>Preserved point cloud color ranges during histogram edits.<ul><li>Changing the minimum no longer collapses the maximum.</li><li>Range regression tests passed.</li></ul><br><a href="https://github.com/CloudCompare/CloudCompare/pull/2440">View the pull request</a></td></tr>
+<tr><td width="50%" valign="top"><strong>📐 <a href="https://github.com/alicevision/AliceVision">AliceVision</a></strong> <img src="https://img.shields.io/github/stars/alicevision/AliceVision?style=flat-square" alt="Stars for alicevision/AliceVision"/><br>Corrected 3DE Radial4 lens calibration derivatives.<ul><li>Wrong Jacobian terms displaced fitted lenses.</li><li>Finite differences verified the repair.</li></ul><br><a href="https://github.com/alicevision/AliceVision/pull/2186">View the pull request</a></td><td width="50%" valign="top"><strong>🧠 <a href="https://github.com/braindecode/braindecode">braindecode</a></strong> <img src="https://img.shields.io/github/stars/braindecode/braindecode?style=flat-square" alt="Stars for braindecode/braindecode"/><br>Fixed Hilbert transforms for EEG phase analysis.<ul><li>Odd lengths lost samples; even lengths doubled Nyquist.</li><li>SciPy and PLV comparisons verified results.</li></ul><br><a href="https://github.com/braindecode/braindecode/pull/1188">View the pull request</a></td></tr>
+</table>
+
+### 🚀 Featured projects
+
+<table>
+<tr><td width="50%" valign="top"><strong>📄 <a href="https://github.com/Arthur031221/docling-guard">docling-guard</a></strong> <img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=flat-square" alt="Stars for Arthur031221/docling-guard"/><br>Checks Docling JSON for extraction damage.<ul><li>Validates provenance spans and table geometry.</li><li>Rechecked 15 real exports after fixing its own false positives.</li></ul></td><td width="50%" valign="top"><strong>🩺 <a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></strong> <img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=flat-square" alt="Stars for Arthur031221/llm-doctor"/><br>Diagnoses local model stores and endpoints.<ul><li>Finds duplicate weights and stale templates.</li><li>Caught silent Ollama context truncation.</li></ul></td></tr>
+<tr><td width="50%" valign="top"><strong>🔁 <a href="https://github.com/Arthur031221/modelshift">modelshift</a></strong> <img src="https://img.shields.io/github/stars/Arthur031221/modelshift?style=flat-square" alt="Stars for Arthur031221/modelshift"/><br>Checks model retirements and replacement behavior.<ul><li>Scans code and prepares migrations.</li><li>Replays prompts for JSON, tool calls and latency.</li></ul></td><td></td></tr>
+</table>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/honors-dark.svg"><img src="assets/honors-light.svg" width="100%" alt="Mei Yi-Chi Memorial Medal, NTHU&#x27;s top graduating honor; 2nd of 609 teams in the NSF HDR ML Challenge 2025; four papers under review at ICLR 2027; iGEM 2023 Gold Medal; 1st place at the Mei-Chu Hackathon 2025"></picture>
 
 ### Publications
