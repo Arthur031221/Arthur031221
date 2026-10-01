@@ -45,7 +45,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </p>
 
 <details>
-<summary>All 24 personal projects</summary>
+<summary>All 25 personal projects</summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -73,6 +73,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [envwhy](https://github.com/Arthur031221/envwhy) | Explain which .env file or shell variable wins for a key in a Next.js or Vite project. | 0 |
 | [onecopy](https://github.com/Arthur031221/onecopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
 | [gh-failmap](https://github.com/Arthur031221/gh-failmap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
+| [exportwhy](https://github.com/Arthur031221/exportwhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
 
 </details>
 
