@@ -40,8 +40,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p>
 <a href="https://github.com/Arthur031221/cardsmith"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cardsmith-dark.svg"><img src="assets/card-cardsmith-light.svg" width="49%" alt="cardsmith"></picture></a>
 <a href="https://github.com/Arthur031221/snipmd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-snipmd-dark.svg"><img src="assets/card-snipmd-light.svg" width="49%" alt="snipmd"></picture></a>
+<a href="https://github.com/Arthur031221/cliffhanger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cliffhanger-dark.svg"><img src="assets/card-cliffhanger-light.svg" width="49%" alt="cliffhanger"></picture></a>
 <a href="https://github.com/Arthur031221/modelshift"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-modelshift-dark.svg"><img src="assets/card-modelshift-light.svg" width="49%" alt="modelshift"></picture></a>
-<a href="https://github.com/Arthur031221/llm-doctor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-llm-doctor-dark.svg"><img src="assets/card-llm-doctor-light.svg" width="49%" alt="llm-doctor"></picture></a>
 </p>
 
 <details>
