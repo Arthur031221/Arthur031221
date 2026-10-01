@@ -50,6 +50,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [docling-guard](https://github.com/Arthur031221/docling-guard) | Offline provenance validation and regression checks for Docling JSON | 1 |
+| [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
 | [gpuwait](https://github.com/Arthur031221/gpuwait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
 | [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
 | [labexplain](https://github.com/Arthur031221/labexplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
@@ -58,7 +59,6 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [ollama-verify](https://github.com/Arthur031221/ollama-verify) | Read-only integrity and storage audit for local Ollama models | 0 |
 | [mlxtrace](https://github.com/Arthur031221/mlxtrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
 | [installwall](https://github.com/Arthur031221/installwall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
-| [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 0 |
 | [papercompass](https://github.com/Arthur031221/papercompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
 | [gpuwho](https://github.com/Arthur031221/gpuwho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
 | [songforge](https://github.com/Arthur031221/songforge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
