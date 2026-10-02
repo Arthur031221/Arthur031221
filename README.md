@@ -35,80 +35,18 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><h3>🚀 Featured projects</h3></summary>
 
-#### <img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a>
-
-> [!TIP]
-> **A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches.**
-
-<a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a>
-
-- Checks task lists and records every early stop it catches.
-- In a 12-task Sonnet 5.5 benchmark with restricted test permissions, runs ending before tests passed fell from six to zero.
-- The hook and skill added about 4 percent to cost in that benchmark.
-
-```sh
-CLIFFHANGER_HOME="$(mktemp -d)" python3 hooks/cliffhanger.py < demo/payloads/offer.json
-```
-
-<details>
-<summary>▶ Watch the demo</summary>
-<br>
-
-<a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a>
-
-</details>
-
-#### <img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a>
-
-> [!TIP]
-> **Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint.**
-
-<a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a>
-
-- Scans Ollama, LM Studio, Hugging Face and MLX stores for duplicate weights, stale templates and orphan files.
-- In a fixture test, cleanup reclaimed 396.7 MB by linking duplicate weights.
-- An Ollama probe detected silent prompt truncation and verified 16,384 tokens without truncation after a context fix.
-
-```sh
-uvx --from git+https://github.com/Arthur031221/llm-doctor llm-doctor scan --offline
-```
-
-<details>
-<summary>▶ Watch the demo</summary>
-<br>
-
-<a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="77%" alt="llm-doctor demo"/></a>
-
-</details>
-
-#### <img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/docling-guard">docling-guard</a>
-
-> [!TIP]
-> **Check Docling JSON exports for broken source spans and extraction loss before they reach a search index.**
-
-<a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/docling-guard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a>
-
-- Runs offline to validate source spans and table geometry, and compares exports for missing text or table content.
-- After correcting false positives, checks on 15 real exports from Docling's test suite passed 12 and flagged 3 with spans exceeding their source text.
-
-```sh
-uvx --from git+https://github.com/Arthur031221/docling-guard.git docling-guard demo
-```
-
-<details>
-<summary>▶ Watch the demo</summary>
-<br>
-
-<a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a>
-
-</details>
+<table>
+<tr><td width="26%" align="center" valign="middle"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></b></td><td valign="top"><a href="https://github.com/Arthur031221/cliffhanger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-cliffhanger-dark.svg"><img src="assets/tip-cliffhanger-light.svg" width="100%" alt="A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches."></picture></a><br><a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></details></td></tr>
+<tr><td width="26%" align="center" valign="middle"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></b></td><td valign="top"><a href="https://github.com/Arthur031221/llm-doctor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-llm-doctor-dark.svg"><img src="assets/tip-llm-doctor-light.svg" width="100%" alt="Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint."></picture></a><br><a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="llm-doctor demo"/></a></details></td></tr>
+<tr><td width="26%" align="center" valign="middle"><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/docling-guard">docling-guard</a></b></td><td valign="top"><a href="https://github.com/Arthur031221/docling-guard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-docling-guard-dark.svg"><img src="assets/tip-docling-guard-light.svg" width="100%" alt="Check Docling JSON exports for broken source spans and extraction loss before they reach a search index."></picture></a><br><a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/docling-guard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a></details></td></tr>
+</table>
 
 </details>
 
 
 ### 📊 Open source at a glance
 
-<a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a>
+<p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
 <summary><b>All 45 projects with my merged pull requests</b></summary>
@@ -119,7 +57,7 @@ uvx --from git+https://github.com/Arthur031221/docling-guard.git docling-guard d
 </details>
 
 <details>
-<summary><b>All 31 personal projects</b></summary>
+<summary><b>All 32 personal projects</b></summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -154,6 +92,7 @@ uvx --from git+https://github.com/Arthur031221/docling-guard.git docling-guard d
 | [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
 | [git-sha-ready](https://github.com/Arthur031221/git-sha-ready) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
 | [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
+| [snipverify](https://github.com/Arthur031221/snipverify) | Check Markdown examples and local links before readers copy them | 0 |
 
 </details>
 
