@@ -25,13 +25,13 @@ understanding when associative memory defines a well-behaved energy and why samp
 ### 🚀 Featured projects
 
 <table>
-<tr><td colspan="2" align="center"><span>🪝</span><br><h3><a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></h3><b>cliffhanger helps Claude Code continue unfinished tasks or report a clear blocker.</b><br><br><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"/></td></tr>
-<tr><td width="58%" valign="top"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></td><td width="42%" valign="top"><b>What it does</b><ul><li>Its Stop hook and skill catch early stops and record them so users can measure unfinished work.</li><li>In 12 benchmark tasks with command restrictions, skipped test runs fell from 6 to 0 at 4 percent more cost.</li><li>The benchmark was not held out, and all tasks finished without it when every required command was allowed.</li></ul><a href="https://github.com/Arthur031221/cliffhanger">Read more →</a></td></tr>
+<tr><td colspan="2" align="center"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="64" alt=""/></a><br><h3><a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></h3><b>A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches.</b><br><br><a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a></td></tr>
+<tr><td width="58%" valign="top"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></td><td width="42%" valign="top"><b>What it does</b><ul><li>Checks task lists and records every early stop it catches.</li><li>In a 12-task Sonnet 5.5 benchmark with restricted test permissions, runs ending before tests passed fell from six to zero.</li><li>The hook and skill added about 4 percent to cost in that benchmark.</li></ul><a href="https://github.com/Arthur031221/cliffhanger">Read more →</a></td></tr>
 </table>
 
 <table>
-<tr><td colspan="2" align="center"><span>🩺</span><br><h3><a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></h3><b>Diagnoses local model stores and endpoints.</b><br><br><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"/></td></tr>
-<tr><td width="58%" valign="top"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="llm-doctor demo"/></a></td><td width="42%" valign="top"><b>What it does</b><ul><li>Finds duplicate weights and stale templates.</li><li>Caught silent Ollama context truncation.</li></ul><a href="https://github.com/Arthur031221/llm-doctor">Read more →</a></td></tr>
+<tr><td colspan="2" align="center"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="64" alt=""/></a><br><h3><a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></h3><b>Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint.</b><br><br><a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a></td></tr>
+<tr><td width="58%" valign="top"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="llm-doctor demo"/></a></td><td width="42%" valign="top"><b>What it does</b><ul><li>Scans Ollama, LM Studio, Hugging Face and MLX stores for duplicate weights, stale templates and orphan files.</li><li>In a fixture test, cleanup reclaimed 396.7 MB by linking duplicate weights.</li><li>An Ollama probe detected silent prompt truncation and verified 16,384 tokens without truncation after a context fix.</li></ul><b>Try it</b><pre>uvx --from git+https://github.com/Arthur031221/llm-doctor llm-doctor scan --offline</pre><a href="https://github.com/Arthur031221/llm-doctor">Read more →</a></td></tr>
 </table>
 
 <table>
@@ -70,7 +70,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </p>
 
 <details>
-<summary>All 30 personal projects</summary>
+<summary>All 31 personal projects</summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -104,6 +104,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [cachewhy](https://github.com/Arthur031221/cachewhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
 | [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
 | [git-sha-ready](https://github.com/Arthur031221/git-sha-ready) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
+| [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
 
 </details>
 
