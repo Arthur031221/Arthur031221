@@ -2794,12 +2794,12 @@ L 0 8
 " style="stroke: #1f2328; stroke-width: 3"/>
       </defs>
       <g>
-       <use xlink:href="#m8819388fc0" x="45.720798" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
+       <use xlink:href="#m8819388fc0" x="45.713985" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
       </g>
      </g>
      <g id="text_1">
       <!-- Sep 02 -->
-      <g style="fill: #1f2328" transform="translate(23.167673 197.38) scale(0.14 -0.14)">
+      <g style="fill: #1f2328" transform="translate(23.16086 197.38) scale(0.14 -0.14)">
        <defs>
         <path id="HumorSans-36" d="M 3256 650 
 L 3119 513 
@@ -3322,12 +3322,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m8819388fc0" x="145.150495" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
+       <use xlink:href="#m8819388fc0" x="145.143682" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
       </g>
      </g>
      <g id="text_2">
       <!-- Sep 09 -->
-      <g style="fill: #1f2328" transform="translate(121.995808 197.38) scale(0.14 -0.14)">
+      <g style="fill: #1f2328" transform="translate(121.988995 197.38) scale(0.14 -0.14)">
        <defs>
         <path id="HumorSans-1c" d="M 3119 2163 
 L 3088 2063 
@@ -3445,12 +3445,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m8819388fc0" x="244.580192" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
+       <use xlink:href="#m8819388fc0" x="244.573379" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
       </g>
      </g>
      <g id="text_3">
       <!-- Sep 16 -->
-      <g style="fill: #1f2328" transform="translate(223.230192 197.38) scale(0.14 -0.14)">
+      <g style="fill: #1f2328" transform="translate(223.223379 197.38) scale(0.14 -0.14)">
        <defs>
         <path id="HumorSans-14" d="M 1606 -313 
 L 1538 -381 
@@ -3641,12 +3641,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m8819388fc0" x="344.009889" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
+       <use xlink:href="#m8819388fc0" x="344.003076" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
       </g>
      </g>
      <g id="text_4">
       <!-- Sep 23 -->
-      <g style="fill: #1f2328" transform="translate(321.30692 197.38) scale(0.14 -0.14)">
+      <g style="fill: #1f2328" transform="translate(321.300107 197.38) scale(0.14 -0.14)">
        <defs>
         <path id="HumorSans-16" d="M 3394 650 
 L 2775 31 
@@ -3761,12 +3761,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m8819388fc0" x="443.439586" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
+       <use xlink:href="#m8819388fc0" x="443.432773" y="175.38" style="fill: #1f2328; stroke: #1f2328; stroke-width: 3"/>
       </g>
      </g>
      <g id="text_5">
       <!-- Sep 30 -->
-      <g style="fill: #1f2328" transform="translate(419.984117 197.38) scale(0.14 -0.14)">
+      <g style="fill: #1f2328" transform="translate(419.977304 197.38) scale(0.14 -0.14)">
        <use xlink:href="#HumorSans-36"/>
        <use xlink:href="#HumorSans-48" transform="translate(55.671875 0)"/>
        <use xlink:href="#HumorSans-53" transform="translate(117.78125 0)"/>
