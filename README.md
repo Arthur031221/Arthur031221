@@ -8,7 +8,7 @@
 
 </div>
 
-Physics and EECS (AI track) at National Tsing Hua University, applying for PhD entry in 2027. At the HMI Lab I build
+Physics and EECS (AI track) at National Tsing Hua University, applying for PhD entry in 2027. I build
 generative decoders that reconstruct 3D spatial structure from fMRI, and I contribute fixes to GPU and scientific software.
 
 My recent research asks how the brain represents and infers the space around us: recovering the layout of rooms from fMRI
