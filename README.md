@@ -61,7 +61,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 33 personal projects</b></summary>
+<summary><b>All 34 personal projects</b></summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -98,6 +98,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
 | [snipverify](https://github.com/Arthur031221/snipverify) | Check Markdown examples and local links before readers copy them | 0 |
 | [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 0 |
+| [gitclone-doctor](https://github.com/Arthur031221/gitclone-doctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
 
 </details>
 
