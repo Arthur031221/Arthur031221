@@ -59,7 +59,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </p>
 
 <details>
-<summary>All 27 personal projects</summary>
+<summary>All 29 personal projects</summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -90,6 +90,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [exportwhy](https://github.com/Arthur031221/exportwhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
 | [corswhy](https://github.com/Arthur031221/corswhy) | Explain which CORS preflight check rejects a browser request | 0 |
 | [paper-margins](https://github.com/Arthur031221/paper-margins) | Read research PDFs with local model explanations and visible source pages | 0 |
+| [cachewhy](https://github.com/Arthur031221/cachewhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
+| [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
 
 </details>
 
