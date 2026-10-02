@@ -17,82 +17,18 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 ### 🌟 Featured contributions
 
-#### 📚 [DocsGPT](https://github.com/arc53/DocsGPT)
-<sub>⭐ 18.3k stars on GitHub · merged pull request</sub>
-
-**Fixed inflated token counts in DocsGPT streaming replies to improve billing and quota accuracy.**
-
-- Combined streamed text before tokenizing for providers without reported usage, including Gemini, Groq, and OpenRouter.
-- A regression test confirmed the fix counted a sample reply as 15 tokens instead of 34.
-- Validation passed all 47 usage tests and 13,103 full-suite tests.
-
-[View the pull request →](https://github.com/arc53/DocsGPT/pull/2876)
-
-#### 🔥 [burn](https://github.com/tracel-ai/burn)
-<sub>⭐ 16k stars on GitHub · merged pull request</sub>
-
-**Corrected Burn tensor roll direction.**
-
-- Positive shifts now match PyTorch.
-- Independent reference tests verified the fix.
-
-[View the pull request →](https://github.com/tracel-ai/burn/pull/5912)
-
-#### 📐 [AliceVision](https://github.com/alicevision/AliceVision)
-<sub>⭐ 3.5k stars on GitHub · merged pull request</sub>
-
-**Corrected 3DE Radial4 lens calibration derivatives.**
-
-- Wrong Jacobian terms displaced fitted lenses.
-- Finite differences verified the repair.
-
-[View the pull request →](https://github.com/alicevision/AliceVision/pull/2186)
-
-#### 🧠 [braindecode](https://github.com/braindecode/braindecode)
-<sub>⭐ 1.3k stars on GitHub · merged pull request</sub>
-
-**Fixed Hilbert transforms for EEG phase analysis.**
-
-- Odd lengths lost samples; even lengths doubled Nyquist.
-- SciPy and PLV comparisons verified results.
-
-[View the pull request →](https://github.com/braindecode/braindecode/pull/1188)
+<table>
+<tr><td width="50%" valign="top"><h3>📚&nbsp;<a href="https://github.com/arc53/DocsGPT">DocsGPT</a></h3><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&label=Stars" alt="GitHub stars of arc53/DocsGPT"/><br><p><b>Fixed inflated token counts in DocsGPT streaming replies to improve billing and quota accuracy.</b></p><ul><li>Combined streamed text before tokenizing for providers without reported usage, including Gemini, Groq, and OpenRouter.</li><li>A regression test confirmed the fix counted a sample reply as 15 tokens instead of 34.</li><li>Validation passed all 47 usage tests and 13,103 full-suite tests.</li></ul><p><a href="https://github.com/arc53/DocsGPT/pull/2876">View the pull request →</a></p></td><td width="50%" valign="top"><h3>🔥&nbsp;<a href="https://github.com/tracel-ai/burn">burn</a></h3><img src="https://img.shields.io/github/stars/tracel-ai/burn?style=social&label=Stars" alt="GitHub stars of tracel-ai/burn"/><br><p><b>Corrected Burn tensor roll direction.</b></p><ul><li>Positive shifts now match PyTorch.</li><li>Independent reference tests verified the fix.</li></ul><p><a href="https://github.com/tracel-ai/burn/pull/5912">View the pull request →</a></p></td></tr>
+<tr><td width="50%" valign="top"><h3>📐&nbsp;<a href="https://github.com/alicevision/AliceVision">AliceVision</a></h3><img src="https://img.shields.io/github/stars/alicevision/AliceVision?style=social&label=Stars" alt="GitHub stars of alicevision/AliceVision"/><br><p><b>Corrected 3DE Radial4 lens calibration derivatives.</b></p><ul><li>Wrong Jacobian terms displaced fitted lenses.</li><li>Finite differences verified the repair.</li></ul><p><a href="https://github.com/alicevision/AliceVision/pull/2186">View the pull request →</a></p></td><td width="50%" valign="top"><h3>🧠&nbsp;<a href="https://github.com/braindecode/braindecode">braindecode</a></h3><img src="https://img.shields.io/github/stars/braindecode/braindecode?style=social&label=Stars" alt="GitHub stars of braindecode/braindecode"/><br><p><b>Fixed Hilbert transforms for EEG phase analysis.</b></p><ul><li>Odd lengths lost samples; even lengths doubled Nyquist.</li><li>SciPy and PLV comparisons verified results.</li></ul><p><a href="https://github.com/braindecode/braindecode/pull/1188">View the pull request →</a></p></td></tr>
+</table>
 
 ### 🚀 Featured projects
 
-#### 🪝 [cliffhanger](https://github.com/Arthur031221/cliffhanger)
-
-**cliffhanger helps Claude Code continue unfinished tasks or report a clear blocker.**
-
-<a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="720" alt="cliffhanger demo"/></a>
-
-- Its Stop hook and skill catch early stops and record them so users can measure unfinished work.
-- In 12 benchmark tasks with command restrictions, skipped test runs fell from 6 to 0 at 4 percent more cost.
-- The benchmark was not held out, and all tasks finished without it when every required command was allowed.
-
-[Try it →](https://github.com/Arthur031221/cliffhanger)
-
-#### 🩺 [llm-doctor](https://github.com/Arthur031221/llm-doctor)
-
-**Diagnoses local model stores and endpoints.**
-
-<a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="720" alt="llm-doctor demo"/></a>
-
-- Finds duplicate weights and stale templates.
-- Caught silent Ollama context truncation.
-
-[Try it →](https://github.com/Arthur031221/llm-doctor)
-
-#### 📄 [docling-guard](https://github.com/Arthur031221/docling-guard)
-
-**Checks Docling JSON for extraction damage.**
-
-<a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="720" alt="docling-guard demo"/></a>
-
-- Validates provenance spans and table geometry.
-- Rechecked 15 real exports after fixing its own false positives.
-
-[Try it →](https://github.com/Arthur031221/docling-guard)
+<table>
+<tr><td width="58%"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></td><td width="42%" valign="top"><h3>🪝&nbsp;<a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></h3><p><b>cliffhanger helps Claude Code continue unfinished tasks or report a clear blocker.</b></p><ul><li>Its Stop hook and skill catch early stops and record them so users can measure unfinished work.</li><li>In 12 benchmark tasks with command restrictions, skipped test runs fell from 6 to 0 at 4 percent more cost.</li><li>The benchmark was not held out, and all tasks finished without it when every required command was allowed.</li></ul><p><a href="https://github.com/Arthur031221/cliffhanger">Try it →</a></p></td></tr>
+<tr><td width="58%"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="llm-doctor demo"/></a></td><td width="42%" valign="top"><h3>🩺&nbsp;<a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></h3><p><b>Diagnoses local model stores and endpoints.</b></p><ul><li>Finds duplicate weights and stale templates.</li><li>Caught silent Ollama context truncation.</li></ul><p><a href="https://github.com/Arthur031221/llm-doctor">Try it →</a></p></td></tr>
+<tr><td width="58%"><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a></td><td width="42%" valign="top"><h3>📄&nbsp;<a href="https://github.com/Arthur031221/docling-guard">docling-guard</a></h3><p><b>Checks Docling JSON for extraction damage.</b></p><ul><li>Validates provenance spans and table geometry.</li><li>Rechecked 15 real exports after fixing its own false positives.</li></ul><p><a href="https://github.com/Arthur031221/docling-guard">Try it →</a></p></td></tr>
+</table>
 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/honors-dark.svg"><img src="assets/honors-light.svg" width="100%" alt="Mei Yi-Chi Memorial Medal, NTHU&#x27;s top graduating honor; 2nd of 609 teams in the NSF HDR ML Challenge 2025; four papers under review at ICLR 2027; iGEM 2023 Gold Medal; 1st place at the Mei-Chu Hackathon 2025"></picture>
