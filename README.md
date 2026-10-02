@@ -8,6 +8,8 @@
 
 </div>
 
+### 👋 About me
+
 Physics and EECS (AI track) at National Tsing Hua University, applying for PhD entry in 2027. I build
 generative decoders that reconstruct 3D spatial structure from fMRI, and I contribute fixes to GPU and scientific software.
 
@@ -104,6 +106,18 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=e14bf384"><img src="assets/stars-light.svg?v=888a7b4b" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
+
+### 🛠️ Toolbox
+
+<div align="center">
+<table>
+<tr><td align="right" valign="middle"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,cpp,c,rust,go,julia,ts,js,bash,fortran,haskell,latex&perline=13" alt="python, cpp, c, rust, go, julia, ts, js, bash, fortran, haskell, latex"/><br><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/></td></tr>
+<tr><td align="right" valign="middle"><b>Machine learning and data</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=13" alt="pytorch, sklearn, opencv"/><br><img src="https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge" alt="JAX"/> <img src="https://img.shields.io/badge/NumPyro-4B5563?style=for-the-badge" alt="NumPyro"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></td></tr>
+<tr><td align="right" valign="middle"><b>Neuroscience</b></td><td><img src="https://img.shields.io/badge/fMRI%20decoding-1d4ed8?style=for-the-badge" alt="fMRI decoding"/> <img src="https://img.shields.io/badge/MNE--Python-367BB6?style=for-the-badge" alt="MNE-Python"/> <img src="https://img.shields.io/badge/nilearn-0F6E8C?style=for-the-badge" alt="nilearn"/> <img src="https://img.shields.io/badge/braindecode-6D28D9?style=for-the-badge" alt="braindecode"/> <img src="https://img.shields.io/badge/PsychoPy-3D7A3D?style=for-the-badge" alt="PsychoPy"/></td></tr>
+<tr><td align="right" valign="middle"><b>3D and GPU</b></td><td><img src="https://skillicons.dev/icons?i=threejs&perline=13" alt="threejs"/><br><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/> <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge" alt="WebGPU"/> <img src="https://img.shields.io/badge/COLMAP-2F4F4F?style=for-the-badge" alt="COLMAP"/> <img src="https://img.shields.io/badge/Gaussian%20splatting-7C3AED?style=for-the-badge" alt="Gaussian splatting"/> <img src="https://img.shields.io/badge/Point%20clouds-0E7490?style=for-the-badge" alt="Point clouds"/> <img src="https://img.shields.io/badge/MPI-2563EB?style=for-the-badge" alt="MPI"/></td></tr>
+<tr><td align="right" valign="middle"><b>Everyday</b></td><td><img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,nodejs,vscode,md&perline=13" alt="linux, git, github, githubactions, nodejs, vscode, md"/><br><img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" alt="uv"/></td></tr>
+</table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthur031221/Arthur031221/output/snake-dark.svg">
