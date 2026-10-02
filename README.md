@@ -26,26 +26,84 @@ understanding when associative memory defines a well-behaved energy and why samp
 ### 🌟 Featured contributions
 
 <table>
-<tr><td width="50%" valign="top"><p align="center"><b>📚&nbsp;<a href="https://github.com/arc53/DocsGPT">DocsGPT</a></b><br><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&label=Stars" alt="GitHub stars of arc53/DocsGPT"/></p><b>Fixed inflated token counts in DocsGPT streaming replies to improve billing and quota accuracy.</b><ul><li>Combined streamed text before tokenizing for providers without reported usage, including Gemini, Groq, and OpenRouter.</li><li>A regression test confirmed the fix counted a sample reply as 15 tokens instead of 34.</li><li>Validation passed all 47 usage tests and 13,103 full-suite tests.</li></ul><a href="https://github.com/arc53/DocsGPT/pull/2876">View the pull request →</a></td><td width="50%" valign="top"><p align="center"><b>🔥&nbsp;<a href="https://github.com/tracel-ai/burn">burn</a></b><br><img src="https://img.shields.io/github/stars/tracel-ai/burn?style=social&label=Stars" alt="GitHub stars of tracel-ai/burn"/></p><b>Corrected Burn tensor roll direction.</b><ul><li>Positive shifts now match PyTorch.</li><li>Independent reference tests verified the fix.</li></ul><a href="https://github.com/tracel-ai/burn/pull/5912">View the pull request →</a></td></tr>
-<tr><td width="50%" valign="top"><p align="center"><b>📐&nbsp;<a href="https://github.com/alicevision/AliceVision">AliceVision</a></b><br><img src="https://img.shields.io/github/stars/alicevision/AliceVision?style=social&label=Stars" alt="GitHub stars of alicevision/AliceVision"/></p><b>Corrected 3DE Radial4 lens calibration derivatives.</b><ul><li>Wrong Jacobian terms displaced fitted lenses.</li><li>Finite differences verified the repair.</li></ul><a href="https://github.com/alicevision/AliceVision/pull/2186">View the pull request →</a></td><td width="50%" valign="top"><p align="center"><b>🧠&nbsp;<a href="https://github.com/braindecode/braindecode">braindecode</a></b><br><img src="https://img.shields.io/github/stars/braindecode/braindecode?style=social&label=Stars" alt="GitHub stars of braindecode/braindecode"/></p><b>Fixed Hilbert transforms for EEG phase analysis.</b><ul><li>Odd lengths lost samples; even lengths doubled Nyquist.</li><li>SciPy and PLV comparisons verified results.</li></ul><a href="https://github.com/braindecode/braindecode/pull/1188">View the pull request →</a></td></tr>
+<tr><td width="26%" valign="middle">📚&nbsp;<b><a href="https://github.com/arc53/DocsGPT">DocsGPT</a></b><br><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&label=Stars" alt="GitHub stars of arc53/DocsGPT"/></td><td valign="middle"><b>Fixed inflated token counts in DocsGPT streaming replies to improve billing and quota accuracy.</b><br>Validation passed all 47 usage tests and 13,103 full-suite tests.&nbsp;<a href="https://github.com/arc53/DocsGPT/pull/2876">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" valign="middle">🔥&nbsp;<b><a href="https://github.com/tracel-ai/burn">burn</a></b><br><img src="https://img.shields.io/github/stars/tracel-ai/burn?style=social&label=Stars" alt="GitHub stars of tracel-ai/burn"/></td><td valign="middle"><b>Corrected Burn tensor roll direction.</b><br>Independent reference tests verified the fix.&nbsp;<a href="https://github.com/tracel-ai/burn/pull/5912">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" valign="middle">📐&nbsp;<b><a href="https://github.com/alicevision/AliceVision">AliceVision</a></b><br><img src="https://img.shields.io/github/stars/alicevision/AliceVision?style=social&label=Stars" alt="GitHub stars of alicevision/AliceVision"/></td><td valign="middle"><b>Corrected 3DE Radial4 lens calibration derivatives.</b><br>Finite differences verified the repair.&nbsp;<a href="https://github.com/alicevision/AliceVision/pull/2186">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" valign="middle">🧠&nbsp;<b><a href="https://github.com/braindecode/braindecode">braindecode</a></b><br><img src="https://img.shields.io/github/stars/braindecode/braindecode?style=social&label=Stars" alt="GitHub stars of braindecode/braindecode"/></td><td valign="middle"><b>Fixed Hilbert transforms for EEG phase analysis.</b><br>SciPy and PLV comparisons verified results.&nbsp;<a href="https://github.com/braindecode/braindecode/pull/1188">PR&nbsp;→</a></td></tr>
 </table>
 
-### 🚀 Featured projects
+<details open>
+<summary><h3>🚀 Featured projects</h3></summary>
 
-<table>
-<tr><td width="28%" align="center" valign="middle"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="72" alt=""/></a><h3><a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></h3></td><td width="72%" valign="top"><b>A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches.</b><br><br><a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a><ul><li>Checks task lists and records every early stop it catches.</li><li>In a 12-task Sonnet 5.5 benchmark with restricted test permissions, runs ending before tests passed fell from six to zero.</li><li>The hook and skill added about 4 percent to cost in that benchmark.</li></ul><pre>CLIFFHANGER_HOME=&quot;$(mktemp -d)&quot; python3 hooks/cliffhanger.py &lt; demo/payloads/offer.json</pre><a href="https://github.com/Arthur031221/cliffhanger">Read more →</a></td></tr>
-<tr><td colspan="2" align="center"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></td></tr>
-</table>
+#### <img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a>
 
-<table>
-<tr><td width="28%" align="center" valign="middle"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="72" alt=""/></a><h3><a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></h3></td><td width="72%" valign="top"><b>Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint.</b><br><br><a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a><ul><li>Scans Ollama, LM Studio, Hugging Face and MLX stores for duplicate weights, stale templates and orphan files.</li><li>In a fixture test, cleanup reclaimed 396.7 MB by linking duplicate weights.</li><li>An Ollama probe detected silent prompt truncation and verified 16,384 tokens without truncation after a context fix.</li></ul><pre>uvx --from git+https://github.com/Arthur031221/llm-doctor llm-doctor scan --offline</pre><a href="https://github.com/Arthur031221/llm-doctor">Read more →</a></td></tr>
-<tr><td colspan="2" align="center"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="77%" alt="llm-doctor demo"/></a></td></tr>
-</table>
+> [!TIP]
+> **A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches.**
 
-<table>
-<tr><td width="28%" align="center" valign="middle"><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/assets/logo.svg" width="72" alt=""/></a><h3><a href="https://github.com/Arthur031221/docling-guard">docling-guard</a></h3></td><td width="72%" valign="top"><b>Check Docling JSON exports for broken source spans and extraction loss before they reach a search index.</b><br><br><a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/docling-guard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a><ul><li>Runs offline to validate source spans and table geometry, and compares exports for missing text or table content.</li><li>After correcting false positives, checks on 15 real exports from Docling&#x27;s test suite passed 12 and flagged 3 with spans exceeding their source text.</li></ul><pre>uvx --from git+https://github.com/Arthur031221/docling-guard.git docling-guard demo</pre><a href="https://github.com/Arthur031221/docling-guard">Read more →</a></td></tr>
-<tr><td colspan="2" align="center"><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a></td></tr>
-</table>
+<a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a>
+
+- Checks task lists and records every early stop it catches.
+- In a 12-task Sonnet 5.5 benchmark with restricted test permissions, runs ending before tests passed fell from six to zero.
+- The hook and skill added about 4 percent to cost in that benchmark.
+
+```sh
+CLIFFHANGER_HOME="$(mktemp -d)" python3 hooks/cliffhanger.py < demo/payloads/offer.json
+```
+
+<details>
+<summary>▶ Watch the demo</summary>
+<br>
+
+<a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a>
+
+</details>
+
+#### <img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a>
+
+> [!TIP]
+> **Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint.**
+
+<a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a>
+
+- Scans Ollama, LM Studio, Hugging Face and MLX stores for duplicate weights, stale templates and orphan files.
+- In a fixture test, cleanup reclaimed 396.7 MB by linking duplicate weights.
+- An Ollama probe detected silent prompt truncation and verified 16,384 tokens without truncation after a context fix.
+
+```sh
+uvx --from git+https://github.com/Arthur031221/llm-doctor llm-doctor scan --offline
+```
+
+<details>
+<summary>▶ Watch the demo</summary>
+<br>
+
+<a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="77%" alt="llm-doctor demo"/></a>
+
+</details>
+
+#### <img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/assets/logo.svg" width="34" align="top" alt=""/>&nbsp;<a href="https://github.com/Arthur031221/docling-guard">docling-guard</a>
+
+> [!TIP]
+> **Check Docling JSON exports for broken source spans and extraction loss before they reach a search index.**
+
+<a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/docling-guard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a>
+
+- Runs offline to validate source spans and table geometry, and compares exports for missing text or table content.
+- After correcting false positives, checks on 15 real exports from Docling's test suite passed 12 and flagged 3 with spans exceeding their source text.
+
+```sh
+uvx --from git+https://github.com/Arthur031221/docling-guard.git docling-guard demo
+```
+
+<details>
+<summary>▶ Watch the demo</summary>
+<br>
+
+<a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a>
+
+</details>
+
+</details>
 
 
 ### 📊 Open source at a glance
@@ -99,11 +157,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 </details>
 
-<details>
+<details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg"><img src="assets/stars-light.svg" width="720" alt="Stars across my projects over the last 30 days"></picture>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg"><img src="assets/stars-light.svg" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
