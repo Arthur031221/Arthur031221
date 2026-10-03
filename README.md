@@ -61,7 +61,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 37 personal projects</b></summary>
+<summary><b>All 38 personal projects</b></summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -102,6 +102,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [gitclone-doctor](https://github.com/Arthur031221/gitclone-doctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
 | [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
 | [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
+| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 0 |
 
 </details>
 
