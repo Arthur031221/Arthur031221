@@ -61,7 +61,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 35 personal projects</b></summary>
+<summary><b>All 36 personal projects</b></summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -100,13 +100,14 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 0 |
 | [gitclone-doctor](https://github.com/Arthur031221/gitclone-doctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
 | [gha-rerun-ledger](https://github.com/Arthur031221/gha-rerun-ledger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 0 |
+| [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
 
 </details>
 
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=cb42ce78"><img src="assets/stars-light.svg?v=c658fb44" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=fa24dbc4"><img src="assets/stars-light.svg?v=44d4542e" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
