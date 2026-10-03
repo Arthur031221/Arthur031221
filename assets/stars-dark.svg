@@ -7484,8 +7484,8 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- Stars on my projects, last 30 days: 6 in total -->
-    <g style="fill: #e6edf3" transform="translate(104.850469 24.87) scale(0.13 -0.13)">
+    <!-- Stars on my projects, last 30 days: 7 in total -->
+    <g style="fill: #e6edf3" transform="translate(103.733281 24.87) scale(0.13 -0.13)">
      <defs>
       <path id="HumorSans-56" d="M 2981 238 
 L 2950 138 
@@ -7916,16 +7916,16 @@ z
      <use xlink:href="#HumorSans-56" transform="translate(1852.0625 0)"/>
      <use xlink:href="#HumorSans-1d" transform="translate(1903.4375 0)"/>
      <use xlink:href="#HumorSans-3" transform="translate(1931.171875 0)"/>
-     <use xlink:href="#HumorSans-19" transform="translate(1979.3125 0)"/>
-     <use xlink:href="#HumorSans-3" transform="translate(2032.828125 0)"/>
-     <use xlink:href="#HumorSans-4c" transform="translate(2080.96875 0)"/>
-     <use xlink:href="#HumorSans-51" transform="translate(2104.40625 0)"/>
-     <use xlink:href="#HumorSans-3" transform="translate(2166.515625 0)"/>
-     <use xlink:href="#HumorSans-57" transform="translate(2214.65625 0)"/>
-     <use xlink:href="#HumorSans-52" transform="translate(2278.921875 0)"/>
-     <use xlink:href="#HumorSans-57" transform="translate(2351.78125 0)"/>
-     <use xlink:href="#HumorSans-44" transform="translate(2416.046875 0)"/>
-     <use xlink:href="#HumorSans-4f" transform="translate(2471.71875 0)"/>
+     <use xlink:href="#HumorSans-1a" transform="translate(1979.3125 0)"/>
+     <use xlink:href="#HumorSans-3" transform="translate(2050.015625 0)"/>
+     <use xlink:href="#HumorSans-4c" transform="translate(2098.15625 0)"/>
+     <use xlink:href="#HumorSans-51" transform="translate(2121.59375 0)"/>
+     <use xlink:href="#HumorSans-3" transform="translate(2183.703125 0)"/>
+     <use xlink:href="#HumorSans-57" transform="translate(2231.84375 0)"/>
+     <use xlink:href="#HumorSans-52" transform="translate(2296.109375 0)"/>
+     <use xlink:href="#HumorSans-57" transform="translate(2368.96875 0)"/>
+     <use xlink:href="#HumorSans-44" transform="translate(2433.234375 0)"/>
+     <use xlink:href="#HumorSans-4f" transform="translate(2488.90625 0)"/>
     </g>
    </g>
   </g>
