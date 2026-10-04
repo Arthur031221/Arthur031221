@@ -131,7 +131,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 41 personal projects</b></summary>
+<summary><b>All 42 personal projects</b></summary>
 <br>
 
 <details open>
@@ -226,6 +226,16 @@ understanding when associative memory defines a well-behaved energy and why samp
 |:--|:--|--:|
 | [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
 | [reelrecipe](https://github.com/Arthur031221/reelrecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(1)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [finchling](https://github.com/Arthur031221/finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
 
 </details>
 
