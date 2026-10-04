@@ -61,7 +61,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 40 personal projects</b></summary>
+<summary><b>All 41 personal projects</b></summary>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
@@ -105,6 +105,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 0 |
 | [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
 | [node-modules-map](https://github.com/Arthur031221/node-modules-map) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
+| [squelchy](https://github.com/Arthur031221/squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
 
 </details>
 
