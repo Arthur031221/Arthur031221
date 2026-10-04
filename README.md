@@ -56,56 +56,170 @@ understanding when associative memory defines a well-behaved energy and why samp
 <summary><b>All 62 projects with my merged pull requests</b></summary>
 <br>
 
-[Babylon.js](https://github.com/BabylonJS/Babylon.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [3d-tiles](https://github.com/CesiumGS/3d-tiles/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [CloudCompare](https://github.com/CloudCompare/CloudCompare/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ImageMagick](https://github.com/ImageMagick/ImageMagick/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MultiQC](https://github.com/MultiQC/MultiQC/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [moabb](https://github.com/NeuroTechX/moabb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [orillusion](https://github.com/Orillusion/orillusion/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-YuE](https://github.com/RevolutionLA/awesome-YuE/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [AliceVision](https://github.com/alicevision/AliceVision/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Meshroom](https://github.com/alicevision/Meshroom/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-mlx](https://github.com/antranapp/awesome-mlx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DocsGPT](https://github.com/arc53/DocsGPT/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [braindecode](https://github.com/braindecode/braindecode/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [colmap](https://github.com/colmap/colmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [naps2](https://github.com/cyanfish/naps2/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [xgboost](https://github.com/dmlc/xgboost/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [model-viewer](https://github.com/google/model-viewer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [faust](https://github.com/grame-cncm/faust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [gufo](https://github.com/gufo-org/gufo/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pymdp](https://github.com/infer-actively/pymdp/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kfr](https://github.com/kfrlib/kfr/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [lancedb](https://github.com/lancedb/lancedb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [FunASR](https://github.com/modelscope/FunASR/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openchamber](https://github.com/openchamber/openchamber/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openFrameworks](https://github.com/openframeworks/openFrameworks/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [splat-transform](https://github.com/playcanvas/splat-transform/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [supersplat](https://github.com/playcanvas/supersplat/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [postprocessing](https://github.com/pmndrs/postprocessing/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [psychopy](https://github.com/psychopy/psychopy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Pillow](https://github.com/python-pillow/Pillow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [recommenders](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [stanza](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [burn](https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+<details open>
+<summary>&nbsp;&nbsp;🤖 AI and machine learning <sub>(14)</sub></summary>
+<br>
+
+[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-YuE](https://github.com/RevolutionLA/awesome-YuE/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-mlx](https://github.com/antranapp/awesome-mlx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DocsGPT](https://github.com/arc53/DocsGPT/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [xgboost](https://github.com/dmlc/xgboost/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [gufo](https://github.com/gufo-org/gufo/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [lancedb](https://github.com/lancedb/lancedb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [FunASR](https://github.com/modelscope/FunASR/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openchamber](https://github.com/openchamber/openchamber/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [recommenders](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [stanza](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [burn](https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧠 Neuroscience and brain-computer interfaces <sub>(4)</sub></summary>
+<br>
+
+[moabb](https://github.com/NeuroTechX/moabb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [braindecode](https://github.com/braindecode/braindecode/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pymdp](https://github.com/infer-actively/pymdp/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [psychopy](https://github.com/psychopy/psychopy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧊 3D, vision and graphics <sub>(15)</sub></summary>
+<br>
+
+[Babylon.js](https://github.com/BabylonJS/Babylon.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [3d-tiles](https://github.com/CesiumGS/3d-tiles/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [CloudCompare](https://github.com/CloudCompare/CloudCompare/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ImageMagick](https://github.com/ImageMagick/ImageMagick/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [orillusion](https://github.com/Orillusion/orillusion/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [AliceVision](https://github.com/alicevision/AliceVision/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Meshroom](https://github.com/alicevision/Meshroom/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [colmap](https://github.com/colmap/colmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [model-viewer](https://github.com/google/model-viewer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openFrameworks](https://github.com/openframeworks/openFrameworks/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [splat-transform](https://github.com/playcanvas/splat-transform/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [supersplat](https://github.com/playcanvas/supersplat/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [postprocessing](https://github.com/pmndrs/postprocessing/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Pillow](https://github.com/python-pillow/Pillow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;⚡ GPU, HPC and scientific computing <sub>(14)</sub></summary>
+<br>
+
+[Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MultiQC](https://github.com/MultiQC/MultiQC/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🔌 Hardware, robotics and firmware <sub>(4)</sub></summary>
+<br>
+
+[canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🎵 Audio and signal processing <sub>(2)</sub></summary>
+<br>
+
+[faust](https://github.com/grame-cncm/faust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kfr](https://github.com/kfrlib/kfr/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🛠️ Languages, compilers and developer tools <sub>(6)</sub></summary>
+<br>
+
+[futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🖥️ Apps and productivity <sub>(3)</sub></summary>
+<br>
+
+[naps2](https://github.com/cyanfish/naps2/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+
+</details>
 
 </details>
 
 <details>
 <summary><b>All 41 personal projects</b></summary>
+<br>
+
+<details open>
+<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(9)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
+| [slopblock](https://github.com/Arthur031221/slopblock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
+| [modelshift](https://github.com/Arthur031221/modelshift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
+| [shiftgear](https://github.com/Arthur031221/shiftgear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
+| [agentleaks](https://github.com/Arthur031221/agentleaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
+| [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
+| [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
+| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 0 |
+| [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(7)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
+| [gpuwait](https://github.com/Arthur031221/gpuwait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
+| [ollama-verify](https://github.com/Arthur031221/ollama-verify) | Read-only integrity and storage audit for local Ollama models | 0 |
+| [mlxtrace](https://github.com/Arthur031221/mlxtrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
+| [gpuwho](https://github.com/Arthur031221/gpuwho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
+| [songforge](https://github.com/Arthur031221/songforge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
+| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;📚 Documents, study and research <sub>(7)</sub></summary>
+<br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [docling-guard](https://github.com/Arthur031221/docling-guard) | Offline provenance validation and regression checks for Docling JSON | 2 |
 | [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
 | [snipmd](https://github.com/Arthur031221/snipmd) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 1 |
-| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
-| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
-| [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 1 |
-| [gha-rerun-ledger](https://github.com/Arthur031221/gha-rerun-ledger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
-| [gpuwait](https://github.com/Arthur031221/gpuwait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
-| [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
 | [labexplain](https://github.com/Arthur031221/labexplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
-| [oss-launchbot](https://github.com/Arthur031221/oss-launchbot) | Policy-aware launch queue and guarded Reddit posting for open-source repositories | 0 |
-| [reelrecipe](https://github.com/Arthur031221/reelrecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
-| [ollama-verify](https://github.com/Arthur031221/ollama-verify) | Read-only integrity and storage audit for local Ollama models | 0 |
-| [mlxtrace](https://github.com/Arthur031221/mlxtrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
-| [installwall](https://github.com/Arthur031221/installwall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
 | [papercompass](https://github.com/Arthur031221/papercompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
-| [gpuwho](https://github.com/Arthur031221/gpuwho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
-| [songforge](https://github.com/Arthur031221/songforge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
-| [slopblock](https://github.com/Arthur031221/slopblock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
-| [modelshift](https://github.com/Arthur031221/modelshift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
-| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
-| [shiftgear](https://github.com/Arthur031221/shiftgear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
-| [agentleaks](https://github.com/Arthur031221/agentleaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
+| [paper-margins](https://github.com/Arthur031221/paper-margins) | Read research PDFs with local model explanations and visible source pages | 0 |
+| [snipverify](https://github.com/Arthur031221/snipverify) | Check Markdown examples and local links before readers copy them | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(7)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
 | [envwhy](https://github.com/Arthur031221/envwhy) | Explain which .env file or shell variable wins for a key in a Next.js or Vite project. | 0 |
 | [onecopy](https://github.com/Arthur031221/onecopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
-| [gh-failmap](https://github.com/Arthur031221/gh-failmap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
 | [exportwhy](https://github.com/Arthur031221/exportwhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
 | [corswhy](https://github.com/Arthur031221/corswhy) | Explain which CORS preflight check rejects a browser request | 0 |
-| [paper-margins](https://github.com/Arthur031221/paper-margins) | Read research PDFs with local model explanations and visible source pages | 0 |
 | [cachewhy](https://github.com/Arthur031221/cachewhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
+| [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
+| [node-modules-map](https://github.com/Arthur031221/node-modules-map) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(9)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 1 |
+| [gha-rerun-ledger](https://github.com/Arthur031221/gha-rerun-ledger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
+| [oss-launchbot](https://github.com/Arthur031221/oss-launchbot) | Policy-aware launch queue and guarded Reddit posting for open-source repositories | 0 |
+| [installwall](https://github.com/Arthur031221/installwall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
+| [gh-failmap](https://github.com/Arthur031221/gh-failmap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
 | [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
 | [git-sha-ready](https://github.com/Arthur031221/git-sha-ready) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
-| [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
-| [snipverify](https://github.com/Arthur031221/snipverify) | Check Markdown examples and local links before readers copy them | 0 |
 | [gitclone-doctor](https://github.com/Arthur031221/gitclone-doctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
-| [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
-| [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
-| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 0 |
-| [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
-| [node-modules-map](https://github.com/Arthur031221/node-modules-map) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
 | [squelchy](https://github.com/Arthur031221/squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧾 Everyday apps <sub>(2)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
+| [reelrecipe](https://github.com/Arthur031221/reelrecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
+
+</details>
 
 </details>
 
