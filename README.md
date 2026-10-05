@@ -141,13 +141,13 @@ understanding when associative memory defines a well-behaved energy and why samp
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
+| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
 | [slopblock](https://github.com/Arthur031221/slopblock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
 | [modelshift](https://github.com/Arthur031221/modelshift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
 | [shiftgear](https://github.com/Arthur031221/shiftgear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
 | [agentleaks](https://github.com/Arthur031221/agentleaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
 | [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
 | [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
-| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 0 |
 | [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
 
 </details>
@@ -244,7 +244,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=eb9275a7"><img src="assets/stars-light.svg?v=55ad2f76" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=82cc092f"><img src="assets/stars-light.svg?v=ddf8be30" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
