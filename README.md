@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:13306b,100:1d4ed8&fontColor=ffffff&height=200&section=header&text=Chi-Wei%20Lee&fontSize=52&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=18&descAlignY=58&descColor=dbeafe&animation=fadeIn" width="100%" alt="Chi-Wei Lee"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Mei+Yi-Chi+Memorial+Medal,+NTHU%27s+top+graduating+honor;Contributor+to+70+open+source+projects;Four+papers+under+review+at+ICLR+2027;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Mei+Yi-Chi+Memorial+Medal,+NTHU%27s+top+graduating+honor;Contributor+to+69+open+source+projects;Four+papers+under+review+at+ICLR+2027;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
 
 <a href="https://arthur031221.github.io/"><img src="https://img.shields.io/badge/Website-arthur031221.github.io-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: arthur031221.github.io"/></a> <a href="https://arthur031221.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-0f172a?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV: PDF"/></a> <a href="https://www.linkedin.com/in/arthur-lee-367511354"><img src="https://img.shields.io/badge/LinkedIn-Chi--Wei%20Lee-0a66c2?style=flat-square" alt="LinkedIn: Chi-Wei Lee"/></a>
 
