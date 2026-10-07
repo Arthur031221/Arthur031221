@@ -53,7 +53,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 71 projects with my merged pull requests</b></summary>
+<summary><b>All 73 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -121,21 +121,21 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(8)</sub></summary>
+<summary>&nbsp;&nbsp;✨ Other <sub>(10)</sub></summary>
 <br>
 
-[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
 </details>
 
 <details>
-<summary><b>All 42 personal projects</b></summary>
+<summary><b>All 44 personal projects</b></summary>
 <br>
 
 <details open>
-<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(9)</sub></summary>
+<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(10)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -149,6 +149,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
 | [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
 | [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
+| [refrainify](https://github.com/Arthur031221/refrainify) | Find repeated tool calls in saved agent sessions with source lines. | 0 |
 
 </details>
 
@@ -230,12 +231,13 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧩 Other tools <sub>(1)</sub></summary>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(2)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [finchling](https://github.com/Arthur031221/finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
+| [cut-to-it](https://github.com/Arthur031221/cut-to-it) | Prepare reversible shortening drafts for chatbot replies and compare a selected rewrite | 0 |
 
 </details>
 
