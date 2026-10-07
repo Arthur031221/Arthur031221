@@ -53,7 +53,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 73 projects with my merged pull requests</b></summary>
+<summary><b>All 74 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -121,10 +121,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(10)</sub></summary>
+<summary>&nbsp;&nbsp;✨ Other <sub>(11)</sub></summary>
 <br>
 
-[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
