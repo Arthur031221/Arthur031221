@@ -131,7 +131,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 44 personal projects</b></summary>
+<summary><b>All 45 personal projects</b></summary>
 <br>
 
 <details open>
@@ -187,7 +187,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(7)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(8)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -199,6 +199,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [cachewhy](https://github.com/Arthur031221/cachewhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
 | [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
 | [node-modules-map](https://github.com/Arthur031221/node-modules-map) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
+| [snootling](https://github.com/Arthur031221/snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
 
 </details>
 
