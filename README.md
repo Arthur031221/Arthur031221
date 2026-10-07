@@ -53,7 +53,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 76 projects with my merged pull requests</b></summary>
+<summary><b>All 77 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -121,17 +121,17 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(13)</sub></summary>
+<summary>&nbsp;&nbsp;✨ Other <sub>(14)</sub></summary>
 <br>
 
-[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [joern](https://github.com/joernio/joern/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
 </details>
 
 <details>
-<summary><b>All 44 personal projects</b></summary>
+<summary><b>All 43 personal projects</b></summary>
 <br>
 
 <details open>
@@ -202,14 +202,13 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(9)</sub></summary>
+<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(8)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 1 |
 | [gha-rerun-ledger](https://github.com/Arthur031221/gha-rerun-ledger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
-| [oss-launchbot](https://github.com/Arthur031221/oss-launchbot) | Policy-aware launch queue and guarded Reddit posting for open-source repositories | 0 |
 | [installwall](https://github.com/Arthur031221/installwall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
 | [gh-failmap](https://github.com/Arthur031221/gh-failmap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
 | [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
