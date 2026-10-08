@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:13306b,100:1d4ed8&fontColor=ffffff&height=200&section=header&text=Chi-Wei%20Lee&fontSize=52&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=18&descAlignY=58&descColor=dbeafe&animation=fadeIn" width="100%" alt="Chi-Wei Lee"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:13306b,100:1d4ed8&fontColor=ffffff&height=200&section=header&text=Hello%2C%20I%27m%20Arthur!&fontSize=52&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=18&descAlignY=58&descColor=dbeafe&animation=fadeIn" width="100%" alt="Hello, I'm Arthur!"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Contributor+to+72+open+source+projects;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
 
