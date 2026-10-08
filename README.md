@@ -2,22 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:13306b,100:1d4ed8&fontColor=ffffff&height=200&section=header&text=Chi-Wei%20Lee&fontSize=52&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=18&descAlignY=58&descColor=dbeafe&animation=fadeIn" width="100%" alt="Chi-Wei Lee"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Mei+Yi-Chi+Memorial+Medal,+NTHU%27s+top+graduating+honor;Contributor+to+72+open+source+projects;Four+papers+under+review+at+ICLR+2027;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Contributor+to+72+open+source+projects;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
 
-<a href="https://arthur031221.github.io/"><img src="https://img.shields.io/badge/Website-arthur031221.github.io-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: arthur031221.github.io"/></a> <a href="https://arthur031221.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-0f172a?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV: PDF"/></a> <a href="https://www.linkedin.com/in/arthur-lee-367511354"><img src="https://img.shields.io/badge/LinkedIn-Chi--Wei%20Lee-0a66c2?style=flat-square" alt="LinkedIn: Chi-Wei Lee"/></a>
+<img src="https://img.shields.io/badge/Focus-NeuroAI-1d4ed8?style=flat-square" alt="Focus: NeuroAI"/> <img src="https://img.shields.io/badge/Focus-3D%20vision-0f172a?style=flat-square" alt="Focus: 3D vision"/> <img src="https://img.shields.io/badge/Focus-GPU%20computing-0a66c2?style=flat-square" alt="Focus: GPU computing"/> <img src="https://img.shields.io/badge/Open%20source-fixes%20and%20tools-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Open source: fixes and tools"/>
 
 </div>
 
 ### 👋 About me
 
-Physics and EECS (AI track) at National Tsing Hua University, applying for PhD entry in 2027. I build
+Physics and EECS (AI track) at National Tsing Hua University. I build
 generative decoders that reconstruct 3D spatial structure from fMRI, and I contribute fixes to GPU and scientific software.
 
 My recent research asks how the brain represents and infers the space around us: recovering the layout of rooms from fMRI
 and camera motion, letting predictive coding carry full posterior distributions instead of single point estimates, and
 understanding when associative memory defines a well-behaved energy and why sampling-based predictive coding generalizes.
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/honors-dark.svg?v=ba01ac24"><img src="assets/honors-light.svg?v=45405420" width="100%" alt="Mei Yi-Chi Memorial Medal, NTHU&#x27;s top graduating honor; 2nd of 609 teams in the NSF HDR ML Challenge 2025; four papers under review at ICLR 2027; iGEM 2023 Gold Medal; 1st place at the Mei-Chu Hackathon 2025"></picture>
 
 ### 📄 Publications
 
