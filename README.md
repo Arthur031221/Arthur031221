@@ -129,7 +129,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 29 personal projects</b></summary>
+<summary><b>All 30 personal projects</b></summary>
 <br>
 
 <details open>
@@ -178,7 +178,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(4)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(5)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -187,6 +187,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [OneCopy](https://github.com/Arthur031221/OneCopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
 | [NodeModulesMap](https://github.com/Arthur031221/NodeModulesMap) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
 | [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
+| [WishYouWereHere](https://github.com/Arthur031221/WishYouWereHere) | Turn six places and one line each into a sheet of postage stamps. Send one link and your f | 0 |
 
 </details>
 
