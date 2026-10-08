@@ -38,9 +38,9 @@ understanding when associative memory defines a well-behaved energy and why samp
 <summary><h3>🚀 Featured projects</h3></summary>
 
 <table>
-<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/cliffhanger">cliffhanger</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/cliffhanger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-cliffhanger-dark.svg?v=522c2b91"><img src="assets/tip-cliffhanger-light.svg?v=986031a6" width="680" alt="A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches."></picture></a><br><a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="cliffhanger demo"/></a></details></td></tr>
-<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/llm-doctor">llm-doctor</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/llm-doctor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-llm-doctor-dark.svg?v=14993f79"><img src="assets/tip-llm-doctor-light.svg?v=df613e43" width="680" alt="Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint."></picture></a><br><a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/llm-doctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/llm-doctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="llm-doctor demo"/></a></details></td></tr>
-<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/docling-guard">docling-guard</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/docling-guard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-docling-guard-dark.svg?v=d3268bf9"><img src="assets/tip-docling-guard-light.svg?v=8ded2ed5" width="680" alt="Check Docling JSON exports for broken source spans and extraction loss before they reach a search index."></picture></a><br><a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/docling-guard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/docling-guard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="docling-guard demo"/></a></details></td></tr>
+<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/Cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/Cliffhanger/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/Cliffhanger">Cliffhanger</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/Cliffhanger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-Cliffhanger-dark.svg?v=522c2b91"><img src="assets/tip-Cliffhanger-light.svg?v=986031a6" width="680" alt="A Claude Code Stop hook and skill that keeps agents working until every part of the task is done or a real blocker is named, and counts every early stop it catches."></picture></a><br><a href="https://github.com/Arthur031221/cliffhanger/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/cliffhanger?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/cliffhanger/actions"><img src="https://github.com/Arthur031221/cliffhanger/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/Cliffhanger/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/cliffhanger" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/Cliffhanger"><img src="https://raw.githubusercontent.com/Arthur031221/cliffhanger/main/demo/demo.gif" width="100%" alt="Cliffhanger demo"/></a></details></td></tr>
+<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/LLMDoctor"><img src="https://raw.githubusercontent.com/Arthur031221/LLMDoctor/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/LLMDoctor">LLMDoctor</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/LLMDoctor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-LLMDoctor-dark.svg?v=14993f79"><img src="assets/tip-LLMDoctor-light.svg?v=df613e43" width="680" alt="Scan local model stores, find setup problems, and check whether coding agents can use your local endpoint."></picture></a><br><a href="https://github.com/Arthur031221/llm-doctor/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml"><img src="https://github.com/Arthur031221/llm-doctor/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/LLMDoctor/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/llm-doctor" alt="License"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/LLMDoctor"><img src="https://raw.githubusercontent.com/Arthur031221/llm-doctor/main/assets/demo.gif" width="100%" alt="LLMDoctor demo"/></a></details></td></tr>
+<tr><td width="200" align="center" valign="middle"><a href="https://github.com/Arthur031221/DoclingGuard"><img src="https://raw.githubusercontent.com/Arthur031221/DoclingGuard/main/assets/logo.svg" width="64" alt=""/></a><br><b><a href="https://github.com/Arthur031221/DoclingGuard">DoclingGuard</a></b></td><td width="680" valign="top"><a href="https://github.com/Arthur031221/DoclingGuard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tip-DoclingGuard-dark.svg?v=d3268bf9"><img src="assets/tip-DoclingGuard-light.svg?v=8ded2ed5" width="680" alt="Check Docling JSON exports for broken source spans and extraction loss before they reach a search index."></picture></a><br><a href="https://github.com/Arthur031221/docling-guard/stargazers"><img src="https://img.shields.io/github/stars/Arthur031221/docling-guard?style=social" alt="GitHub stars"></a> <a href="https://github.com/Arthur031221/docling-guard/actions"><img src="https://github.com/Arthur031221/docling-guard/actions/workflows/ci.yml/badge.svg" alt="CI"></a> <a href="https://github.com/Arthur031221/DoclingGuard/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Arthur031221/docling-guard" alt="MIT license"></a><details><summary>▶ Watch the demo</summary><br><a href="https://github.com/Arthur031221/DoclingGuard"><img src="https://raw.githubusercontent.com/Arthur031221/docling-guard/main/demo/demo.gif" width="100%" alt="DoclingGuard demo"/></a></details></td></tr>
 </table>
 
 </details>
@@ -129,7 +129,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 45 personal projects</b></summary>
+<summary><b>All 46 personal projects</b></summary>
 <br>
 
 <details open>
@@ -138,16 +138,16 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [cliffhanger](https://github.com/Arthur031221/cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
-| [toolcall-check](https://github.com/Arthur031221/toolcall-check) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
-| [slopblock](https://github.com/Arthur031221/slopblock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
-| [modelshift](https://github.com/Arthur031221/modelshift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
-| [shiftgear](https://github.com/Arthur031221/shiftgear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
-| [agentleaks](https://github.com/Arthur031221/agentleaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
-| [agent-context-map](https://github.com/Arthur031221/agent-context-map) | Map repository instructions that may apply to a target path. | 0 |
-| [agent-change-receipt](https://github.com/Arthur031221/agent-change-receipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
-| [mcp-footprint](https://github.com/Arthur031221/mcp-footprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
-| [refrainify](https://github.com/Arthur031221/refrainify) | Find repeated tool calls in saved agent sessions with source lines. | 0 |
+| [Cliffhanger](https://github.com/Arthur031221/Cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
+| [ToolCallCheck](https://github.com/Arthur031221/ToolCallCheck) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
+| [SlopBlock](https://github.com/Arthur031221/SlopBlock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
+| [ModelShift](https://github.com/Arthur031221/ModelShift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
+| [ShiftGear](https://github.com/Arthur031221/ShiftGear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
+| [AgentLeaks](https://github.com/Arthur031221/AgentLeaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
+| [AgentContextMap](https://github.com/Arthur031221/AgentContextMap) | Map repository instructions that may apply to a target path. | 0 |
+| [AgentChangeReceipt](https://github.com/Arthur031221/AgentChangeReceipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
+| [MCPFootprint](https://github.com/Arthur031221/MCPFootprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
+| [Refrainify](https://github.com/Arthur031221/Refrainify) | Find repeated tool calls in saved agent sessions with source lines. | 0 |
 
 </details>
 
@@ -157,13 +157,13 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [llm-doctor](https://github.com/Arthur031221/llm-doctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
-| [gpuwait](https://github.com/Arthur031221/gpuwait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
-| [ollama-verify](https://github.com/Arthur031221/ollama-verify) | Read-only integrity and storage audit for local Ollama models | 0 |
-| [mlxtrace](https://github.com/Arthur031221/mlxtrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
-| [gpuwho](https://github.com/Arthur031221/gpuwho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
-| [songforge](https://github.com/Arthur031221/songforge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
-| [inference-visually](https://github.com/Arthur031221/inference-visually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
+| [LLMDoctor](https://github.com/Arthur031221/LLMDoctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
+| [GPUWait](https://github.com/Arthur031221/GPUWait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
+| [OllamaVerify](https://github.com/Arthur031221/OllamaVerify) | Read-only integrity and storage audit for local Ollama models | 0 |
+| [MLXTrace](https://github.com/Arthur031221/MLXTrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
+| [GPUWho](https://github.com/Arthur031221/GPUWho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
+| [SongForge](https://github.com/Arthur031221/SongForge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
+| [InferenceVisually](https://github.com/Arthur031221/InferenceVisually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
 
 </details>
 
@@ -173,14 +173,14 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [docling-guard](https://github.com/Arthur031221/docling-guard) | Offline provenance validation and regression checks for Docling JSON | 2 |
-| [snipmd](https://github.com/Arthur031221/snipmd) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 2 |
-| [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
-| [labexplain](https://github.com/Arthur031221/labexplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
-| [papercompass](https://github.com/Arthur031221/papercompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
-| [paper-margins](https://github.com/Arthur031221/paper-margins) | Read research PDFs with local model explanations and visible source pages | 0 |
-| [snipverify](https://github.com/Arthur031221/snipverify) | Check Markdown examples and local links before readers copy them | 0 |
-| [stingier](https://github.com/Arthur031221/stingier) | Turn dark handwritten note PDFs into white-page print copies. One HTML file, runs in your  | 0 |
+| [DoclingGuard](https://github.com/Arthur031221/DoclingGuard) | Offline provenance validation and regression checks for Docling JSON | 2 |
+| [SnipMD](https://github.com/Arthur031221/SnipMD) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 2 |
+| [Cardsmith](https://github.com/Arthur031221/Cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
+| [LabExplain](https://github.com/Arthur031221/LabExplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
+| [PaperCompass](https://github.com/Arthur031221/PaperCompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
+| [PaperMargins](https://github.com/Arthur031221/PaperMargins) | Read research PDFs with local model explanations and visible source pages | 0 |
+| [SnipVerify](https://github.com/Arthur031221/SnipVerify) | Check Markdown examples and local links before readers copy them | 0 |
+| [Stingier](https://github.com/Arthur031221/Stingier) | Turn dark handwritten note PDFs into white-page print copies. One HTML file, runs in your  | 0 |
 
 </details>
 
@@ -190,14 +190,14 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [envwhy](https://github.com/Arthur031221/envwhy) | Explain which .env file or shell variable wins for a key in a Next.js or Vite project. | 0 |
-| [onecopy](https://github.com/Arthur031221/onecopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
-| [exportwhy](https://github.com/Arthur031221/exportwhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
-| [corswhy](https://github.com/Arthur031221/corswhy) | Explain which CORS preflight check rejects a browser request | 0 |
-| [cachewhy](https://github.com/Arthur031221/cachewhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
-| [rn-artifact-check](https://github.com/Arthur031221/rn-artifact-check) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
-| [node-modules-map](https://github.com/Arthur031221/node-modules-map) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
-| [snootling](https://github.com/Arthur031221/snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
+| [EnvWhy](https://github.com/Arthur031221/EnvWhy) | Explain which .env file or shell variable wins for a key in a Next.js or Vite project. | 0 |
+| [OneCopy](https://github.com/Arthur031221/OneCopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
+| [ExportWhy](https://github.com/Arthur031221/ExportWhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
+| [CORSWhy](https://github.com/Arthur031221/CORSWhy) | Explain which CORS preflight check rejects a browser request | 0 |
+| [CacheWhy](https://github.com/Arthur031221/CacheWhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
+| [RNArtifactCheck](https://github.com/Arthur031221/RNArtifactCheck) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
+| [NodeModulesMap](https://github.com/Arthur031221/NodeModulesMap) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
+| [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
 
 </details>
 
@@ -207,14 +207,14 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [worktree-port-check](https://github.com/Arthur031221/worktree-port-check) | Check whether a port listener runs from the Git worktree you are testing | 1 |
-| [gha-rerun-ledger](https://github.com/Arthur031221/gha-rerun-ledger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
-| [installwall](https://github.com/Arthur031221/installwall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
-| [gh-failmap](https://github.com/Arthur031221/gh-failmap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
-| [polars-ready](https://github.com/Arthur031221/polars-ready) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
-| [git-sha-ready](https://github.com/Arthur031221/git-sha-ready) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
-| [gitclone-doctor](https://github.com/Arthur031221/gitclone-doctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
-| [squelchy](https://github.com/Arthur031221/squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
+| [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 1 |
+| [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
+| [InstallWall](https://github.com/Arthur031221/InstallWall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
+| [GHFailMap](https://github.com/Arthur031221/GHFailMap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
+| [PolarsReady](https://github.com/Arthur031221/PolarsReady) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
+| [GitSHAReady](https://github.com/Arthur031221/GitSHAReady) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
+| [GitCloneDoctor](https://github.com/Arthur031221/GitCloneDoctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
+| [Squelchy](https://github.com/Arthur031221/Squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
 
 </details>
 
@@ -224,19 +224,20 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [receiptwise](https://github.com/Arthur031221/receiptwise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
-| [reelrecipe](https://github.com/Arthur031221/reelrecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
+| [ReceiptWise](https://github.com/Arthur031221/ReceiptWise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
+| [ReelRecipe](https://github.com/Arthur031221/ReelRecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧩 Other tools <sub>(2)</sub></summary>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(3)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [finchling](https://github.com/Arthur031221/finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
-| [cut-to-it](https://github.com/Arthur031221/cut-to-it) | Prepare reversible shortening drafts for chatbot replies and compare a selected rewrite | 0 |
+| [Finchling](https://github.com/Arthur031221/Finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
+| [CutToIt](https://github.com/Arthur031221/CutToIt) | Prepare reversible shortening drafts for chatbot replies and compare a selected rewrite | 0 |
+| [Dollopify](https://github.com/Arthur031221/Dollopify) | Split a restaurant bill by who ate what, shared plates included, and send the whole bill a | 0 |
 
 </details>
 
@@ -245,7 +246,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=a9acc518"><img src="assets/stars-light.svg?v=4b88a7dc" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=ba9dab6e"><img src="assets/stars-light.svg?v=c52073f0" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
