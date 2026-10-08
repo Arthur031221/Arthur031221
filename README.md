@@ -129,11 +129,11 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 46 personal projects</b></summary>
+<summary><b>All 28 personal projects</b></summary>
 <br>
 
 <details open>
-<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(10)</sub></summary>
+<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(6)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -144,22 +144,16 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [ModelShift](https://github.com/Arthur031221/ModelShift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
 | [ShiftGear](https://github.com/Arthur031221/ShiftGear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
 | [AgentLeaks](https://github.com/Arthur031221/AgentLeaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
-| [AgentContextMap](https://github.com/Arthur031221/AgentContextMap) | Map repository instructions that may apply to a target path. | 0 |
-| [AgentChangeReceipt](https://github.com/Arthur031221/AgentChangeReceipt) | Review recorded session commands beside the current Git diff in local HTML and Markdown. | 0 |
-| [MCPFootprint](https://github.com/Arthur031221/MCPFootprint) | Offline size reports and repeated definition checks for captured MCP tool catalogs. | 0 |
-| [Refrainify](https://github.com/Arthur031221/Refrainify) | Find repeated tool calls in saved agent sessions with source lines. | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(7)</sub></summary>
+<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(5)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [LLMDoctor](https://github.com/Arthur031221/LLMDoctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
-| [GPUWait](https://github.com/Arthur031221/GPUWait) | GPU Idle Score for local LLM servers: measure idle time against Ollama, vLLM, mlx-lm | 0 |
-| [OllamaVerify](https://github.com/Arthur031221/OllamaVerify) | Read-only integrity and storage audit for local Ollama models | 0 |
 | [MLXTrace](https://github.com/Arthur031221/MLXTrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
 | [GPUWho](https://github.com/Arthur031221/GPUWho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
 | [SongForge](https://github.com/Arthur031221/SongForge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
@@ -168,7 +162,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;📚 Documents, study and research <sub>(8)</sub></summary>
+<summary>&nbsp;&nbsp;📚 Documents, study and research <sub>(7)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -179,41 +173,30 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [LabExplain](https://github.com/Arthur031221/LabExplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
 | [PaperCompass](https://github.com/Arthur031221/PaperCompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
 | [PaperMargins](https://github.com/Arthur031221/PaperMargins) | Read research PDFs with local model explanations and visible source pages | 0 |
-| [SnipVerify](https://github.com/Arthur031221/SnipVerify) | Check Markdown examples and local links before readers copy them | 0 |
 | [Stingier](https://github.com/Arthur031221/Stingier) | Turn dark handwritten note PDFs into white-page print copies. One HTML file, runs in your  | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(8)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(3)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [EnvWhy](https://github.com/Arthur031221/EnvWhy) | Explain which .env file or shell variable wins for a key in a Next.js or Vite project. | 0 |
 | [OneCopy](https://github.com/Arthur031221/OneCopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
-| [ExportWhy](https://github.com/Arthur031221/ExportWhy) | Explains why Node accepts or rejects a package import, for import and require, from the pr | 0 |
-| [CORSWhy](https://github.com/Arthur031221/CORSWhy) | Explain which CORS preflight check rejects a browser request | 0 |
-| [CacheWhy](https://github.com/Arthur031221/CacheWhy) | Explain browser and shared HTTP cache behavior from response headers | 0 |
-| [RNArtifactCheck](https://github.com/Arthur031221/RNArtifactCheck) | Catch missing or corrupted JavaScript bundle entries in React Native APKs and AABs. | 0 |
 | [NodeModulesMap](https://github.com/Arthur031221/NodeModulesMap) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
 | [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(8)</sub></summary>
+<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(3)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 1 |
 | [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
-| [InstallWall](https://github.com/Arthur031221/InstallWall) | Check direct npm, pip, gem, and cargo installs for typosquats, new packages, and sourced m | 0 |
-| [GHFailMap](https://github.com/Arthur031221/GHFailMap) | Group recent failed GitHub Actions runs by the error they share, with a link to each run. | 0 |
-| [PolarsReady](https://github.com/Arthur031221/PolarsReady) | Read-only audit of Pandas code for Polars migration blockers and rewrite patterns | 0 |
-| [GitSHAReady](https://github.com/Arthur031221/GitSHAReady) | Find fixed-length Git object ID assumptions before SHA-256 repositories expose them | 0 |
-| [GitCloneDoctor](https://github.com/Arthur031221/GitCloneDoctor) | Compare anonymous GitHub HTTPS ref discovery using selected transport settings and an HTTP | 0 |
 | [Squelchy](https://github.com/Arthur031221/Squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
 
 </details>
@@ -230,13 +213,12 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧩 Other tools <sub>(3)</sub></summary>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(2)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [Finchling](https://github.com/Arthur031221/Finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
-| [CutToIt](https://github.com/Arthur031221/CutToIt) | Prepare reversible shortening drafts for chatbot replies and compare a selected rewrite | 0 |
 | [Dollopify](https://github.com/Arthur031221/Dollopify) | Split a restaurant bill by who ate what, shared plates included, and send the whole bill a | 0 |
 
 </details>
