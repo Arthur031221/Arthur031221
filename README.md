@@ -176,8 +176,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [docling-guard](https://github.com/Arthur031221/docling-guard) | Offline provenance validation and regression checks for Docling JSON | 2 |
+| [snipmd](https://github.com/Arthur031221/snipmd) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 2 |
 | [cardsmith](https://github.com/Arthur031221/cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
-| [snipmd](https://github.com/Arthur031221/snipmd) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 1 |
 | [labexplain](https://github.com/Arthur031221/labexplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
 | [papercompass](https://github.com/Arthur031221/papercompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
 | [paper-margins](https://github.com/Arthur031221/paper-margins) | Read research PDFs with local model explanations and visible source pages | 0 |
@@ -247,7 +247,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=3381424a"><img src="assets/stars-light.svg?v=c972ab2b" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=a9acc518"><img src="assets/stars-light.svg?v=4b88a7dc" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
