@@ -51,7 +51,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 84 projects with my merged pull requests</b></summary>
+<summary><b>All 85 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -119,17 +119,17 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(19)</sub></summary>
+<summary>&nbsp;&nbsp;✨ Other <sub>(20)</sub></summary>
 <br>
 
-[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [UniGetUI](https://github.com/Devolutions/UniGetUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Indy](https://github.com/IndySockets/Indy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kaolin](https://github.com/NVIDIAGameWorks/kaolin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [joern](https://github.com/joernio/joern/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [UniGetUI](https://github.com/Devolutions/UniGetUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [evox](https://github.com/EMI-Group/evox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Indy](https://github.com/IndySockets/Indy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kaolin](https://github.com/NVIDIAGameWorks/kaolin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [joern](https://github.com/joernio/joern/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
 </details>
 
 <details>
-<summary><b>All 32 personal projects</b></summary>
+<summary><b>All 33 personal projects</b></summary>
 <br>
 
 <details open>
@@ -178,7 +178,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(6)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(7)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -189,6 +189,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
 | [WishYouWereHere](https://github.com/Arthur031221/WishYouWereHere) | Turn six places and one line each into a sheet of postage stamps. Send one link and your f | 0 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
+| [Jostle](https://github.com/Arthur031221/Jostle) | A free day planner in one HTML file: drag one task and the rest of the day moves around yo | 0 |
 
 </details>
 
