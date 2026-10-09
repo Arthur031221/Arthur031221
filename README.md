@@ -30,9 +30,6 @@ understanding when associative memory defines a well-behaved energy and why samp
 <tr><td width="26%" align="center" valign="middle">⭐&nbsp;<b><a href="https://github.com/vlang/v">v</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/vlang/v?style=social&label=Stars" alt="GitHub stars of vlang/v"/></td><td valign="middle"><b>Invalid dates now return handleable errors instead of crashing applications that use V&#x27;s time parsers.</b><br>The new parse tests fail on the parent commit and pass with the change.&nbsp;<a href="https://github.com/vlang/v/pull/29228">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/dmlc/xgboost?style=social&label=Stars" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">⭐&nbsp;<b><a href="https://github.com/Devolutions/UniGetUI">UniGetUI</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/Devolutions/UniGetUI?style=social&label=Stars" alt="GitHub stars of Devolutions/UniGetUI"/></td><td valign="middle"><b>UniGetUI now continues loading when Windows reports no internet connection indefinitely.</b><br>ConnectivityWaitTests verify that without a network interface, the wait returns after 30 seconds instead of hanging.&nbsp;<a href="https://github.com/Devolutions/UniGetUI/pull/5487">PR&nbsp;→</a></td></tr>
-<tr><td width="26%" align="center" valign="middle">⭐&nbsp;<b><a href="https://github.com/recommenders-team/recommenders">recommenders</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/recommenders-team/recommenders?style=social&label=Stars" alt="GitHub stars of recommenders-team/recommenders"/></td><td valign="middle"><b>Negative feedback sampling no longer skews toward low item IDs.</b><br>Over 30 seeds the mean sampled item ID moved from about 18 to about 27, the unbiased value for the catalog.&nbsp;<a href="https://github.com/recommenders-team/recommenders/pull/2392">PR&nbsp;→</a></td></tr>
-<tr><td width="26%" align="center" valign="middle">📚&nbsp;<b><a href="https://github.com/arc53/DocsGPT">DocsGPT</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social&label=Stars" alt="GitHub stars of arc53/DocsGPT"/></td><td valign="middle"><b>Fixed inflated token counts in DocsGPT streaming replies to improve billing and quota accuracy.</b><br>Validation passed all 47 usage tests and 13,103 full-suite tests.&nbsp;<a href="https://github.com/arc53/DocsGPT/pull/2876">PR&nbsp;→</a></td></tr>
-<tr><td width="26%" align="center" valign="middle">⭐&nbsp;<b><a href="https://github.com/nim-lang/Nim">Nim</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="https://img.shields.io/github/stars/nim-lang/Nim?style=social&label=Stars" alt="GitHub stars of nim-lang/Nim"/></td><td valign="middle"><b>Fixes HeapQueue deletions that could make later values pop out of priority order.</b><br>A regression test checks the invariant and ascending pop order, and fails with the original implementation.&nbsp;<a href="https://github.com/nim-lang/Nim/pull/26313">PR&nbsp;→</a></td></tr>
 </table>
 </div>
 
@@ -131,7 +128,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 33 personal projects</b></summary>
+<summary><b>All 34 personal projects</b></summary>
 <br>
 
 <details open>
@@ -180,7 +177,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(7)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(8)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -192,6 +189,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [WishYouWereHere](https://github.com/Arthur031221/WishYouWereHere) | Turn six places and one line each into a sheet of postage stamps. Send one link and your f | 0 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
 | [Jostle](https://github.com/Arthur031221/Jostle) | A free day planner in one HTML file: drag one task and the rest of the day moves around yo | 0 |
+| [Sunspill](https://github.com/Arthur031221/Sunspill) | Draw a room and its windows, drag the clock, and see where the sun lands on the floor and  | 0 |
 
 </details>
 
