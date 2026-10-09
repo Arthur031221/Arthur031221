@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:13306b,100:1d4ed8&fontColor=ffffff&height=200&section=header&text=Hello%2C%20I%27m%20Arthur!&fontSize=52&fontAlignY=36&desc=NeuroAI%20%20%7C%20%203D%20Vision%20%20%7C%20%20GPU%20Computing&descSize=18&descAlignY=58&descColor=dbeafe&animation=fadeIn" width="100%" alt="Hello, I'm Arthur!"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Contributor+to+72+open+source+projects;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Decoding+3D+space+from+the+human+brain;Contributor+to+73+open+source+projects;Predictive+coding,+Bayesian+inference,+GPU+computing" alt="What I do"/>
 
 <img src="https://img.shields.io/badge/Focus-NeuroAI-1d4ed8?style=flat-square" alt="Focus: NeuroAI"/> <img src="https://img.shields.io/badge/Focus-3D%20vision-0f172a?style=flat-square" alt="Focus: 3D vision"/> <img src="https://img.shields.io/badge/Focus-GPU%20computing-0a66c2?style=flat-square" alt="Focus: GPU computing"/> <img src="https://img.shields.io/badge/Open%20source-fixes%20and%20tools-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Open source: fixes and tools"/>
 
@@ -51,7 +51,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 83 projects with my merged pull requests</b></summary>
+<summary><b>All 84 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -103,10 +103,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🛠️ Languages, compilers and developer tools <sub>(6)</sub></summary>
+<summary>&nbsp;&nbsp;🛠️ Languages, compilers and developer tools <sub>(7)</sub></summary>
 <br>
 
-[futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [testng](https://github.com/testng-team/testng/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
