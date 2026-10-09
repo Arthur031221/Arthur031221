@@ -51,80 +51,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 85 projects with my merged pull requests</b></summary>
+<summary><b>All 0 projects with my merged pull requests</b></summary>
 <br>
 
-<details open>
-<summary>&nbsp;&nbsp;🤖 AI and machine learning <sub>(16)</sub></summary>
-<br>
 
-[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-YuE](https://github.com/RevolutionLA/awesome-YuE/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-mlx](https://github.com/antranapp/awesome-mlx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DocsGPT](https://github.com/arc53/DocsGPT/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [agent-device](https://github.com/callstack/agent-device/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [xgboost](https://github.com/dmlc/xgboost/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [gufo](https://github.com/gufo-org/gufo/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [hypit](https://github.com/hypit-ai/hypit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [lancedb](https://github.com/lancedb/lancedb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [FunASR](https://github.com/modelscope/FunASR/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openchamber](https://github.com/openchamber/openchamber/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [recommenders](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [stanza](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [burn](https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧠 Neuroscience and brain-computer interfaces <sub>(4)</sub></summary>
-<br>
-
-[moabb](https://github.com/NeuroTechX/moabb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [braindecode](https://github.com/braindecode/braindecode/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pymdp](https://github.com/infer-actively/pymdp/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [psychopy](https://github.com/psychopy/psychopy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧊 3D, vision and graphics <sub>(15)</sub></summary>
-<br>
-
-[Babylon.js](https://github.com/BabylonJS/Babylon.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [3d-tiles](https://github.com/CesiumGS/3d-tiles/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [CloudCompare](https://github.com/CloudCompare/CloudCompare/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ImageMagick](https://github.com/ImageMagick/ImageMagick/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [orillusion](https://github.com/Orillusion/orillusion/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [AliceVision](https://github.com/alicevision/AliceVision/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Meshroom](https://github.com/alicevision/Meshroom/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [colmap](https://github.com/colmap/colmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [model-viewer](https://github.com/google/model-viewer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openFrameworks](https://github.com/openframeworks/openFrameworks/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [splat-transform](https://github.com/playcanvas/splat-transform/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [supersplat](https://github.com/playcanvas/supersplat/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [postprocessing](https://github.com/pmndrs/postprocessing/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Pillow](https://github.com/python-pillow/Pillow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;⚡ GPU, HPC and scientific computing <sub>(14)</sub></summary>
-<br>
-
-[Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MultiQC](https://github.com/MultiQC/MultiQC/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🔌 Hardware, robotics and firmware <sub>(4)</sub></summary>
-<br>
-
-[canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🎵 Audio and signal processing <sub>(2)</sub></summary>
-<br>
-
-[faust](https://github.com/grame-cncm/faust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kfr](https://github.com/kfrlib/kfr/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🛠️ Languages, compilers and developer tools <sub>(7)</sub></summary>
-<br>
-
-[futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [testng](https://github.com/testng-team/testng/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🖥️ Apps and productivity <sub>(3)</sub></summary>
-<br>
-
-[naps2](https://github.com/cyanfish/naps2/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(20)</sub></summary>
-<br>
-
-[ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [UniGetUI](https://github.com/Devolutions/UniGetUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [evox](https://github.com/EMI-Group/evox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Indy](https://github.com/IndySockets/Indy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kaolin](https://github.com/NVIDIAGameWorks/kaolin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [joern](https://github.com/joernio/joern/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
 
 </details>
 
