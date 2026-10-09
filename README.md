@@ -129,7 +129,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 30 personal projects</b></summary>
+<summary><b>All 32 personal projects</b></summary>
 <br>
 
 <details open>
@@ -178,7 +178,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(5)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(6)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -188,11 +188,12 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [NodeModulesMap](https://github.com/Arthur031221/NodeModulesMap) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
 | [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
 | [WishYouWereHere](https://github.com/Arthur031221/WishYouWereHere) | Turn six places and one line each into a sheet of postage stamps. Send one link and your f | 0 |
+| [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(3)</sub></summary>
+<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(4)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -200,6 +201,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 1 |
 | [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
 | [Squelchy](https://github.com/Arthur031221/Squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
+| [Beholden](https://github.com/Arthur031221/Beholden) | Turn a GitHub repo&#x27;s star count into a thank-you sky you drag into shape, save as a pictur | 0 |
 
 </details>
 
