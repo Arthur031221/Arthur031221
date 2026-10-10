@@ -128,7 +128,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 35 personal projects</b></summary>
+<summary><b>All 36 personal projects</b></summary>
 <br>
 
 <details open>
@@ -147,7 +147,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(5)</sub></summary>
+<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(6)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -157,6 +157,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [GPUWho](https://github.com/Arthur031221/GPUWho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
 | [SongForge](https://github.com/Arthur031221/SongForge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
 | [InferenceVisually](https://github.com/Arthur031221/InferenceVisually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
+| [Rumbleback](https://github.com/Arthur031221/Rumbleback) | Replay any past earthquake in the browser: P and S wavefronts from the iasp91 model, real  | 0 |
 
 </details>
 
