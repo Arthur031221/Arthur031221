@@ -121,7 +121,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 17 personal projects</b></summary>
+<summary><b>All 18 personal projects</b></summary>
 <br>
 
 <details open>
@@ -183,6 +183,16 @@ understanding when associative memory defines a well-behaved energy and why samp
 |:--|:--|--:|
 | [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 0 |
 | [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(1)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [Reachbloom](https://github.com/Arthur031221/Reachbloom) | Explore dated transit timetables, reachable stops and two origins on a map | 0 |
 
 </details>
 
