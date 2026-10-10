@@ -128,7 +128,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 34 personal projects</b></summary>
+<summary><b>All 35 personal projects</b></summary>
 <br>
 
 <details open>
@@ -177,7 +177,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(8)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(9)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -190,6 +190,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
 | [Jostle](https://github.com/Arthur031221/Jostle) | A free day planner in one HTML file: drag one task and the rest of the day moves around yo | 0 |
 | [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 0 |
+| [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 0 |
 
 </details>
 
