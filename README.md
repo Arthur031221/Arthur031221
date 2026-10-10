@@ -121,41 +121,35 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 36 personal projects</b></summary>
+<summary><b>All 14 personal projects</b></summary>
 <br>
 
 <details open>
-<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(6)</sub></summary>
+<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(4)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [Cliffhanger](https://github.com/Arthur031221/Cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
 | [ToolCallCheck](https://github.com/Arthur031221/ToolCallCheck) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
-| [SlopBlock](https://github.com/Arthur031221/SlopBlock) | Adblock for AI slop: blurs machine-written posts in your feeds, on-device, and shows why.  | 0 |
 | [ModelShift](https://github.com/Arthur031221/ModelShift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
-| [ShiftGear](https://github.com/Arthur031221/ShiftGear) | Model and effort routing skill for Claude Code, Codex, Gemini CLI, Cursor, and OpenCode, w | 0 |
 | [AgentLeaks](https://github.com/Arthur031221/AgentLeaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(6)</sub></summary>
+<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(2)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [LLMDoctor](https://github.com/Arthur031221/LLMDoctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
-| [MLXTrace](https://github.com/Arthur031221/MLXTrace) | MLX training step profiler with power and memory sampling and a standalone HTML timeline | 0 |
-| [GPUWho](https://github.com/Arthur031221/GPUWho) | Live system GPU use alongside named local LLM processes on Apple Silicon, with optional Ne | 0 |
-| [SongForge](https://github.com/Arthur031221/SongForge) | Local Suno-style song studio for Apple Silicon: lyrics to full songs with vocals and cover | 0 |
-| [InferenceVisually](https://github.com/Arthur031221/InferenceVisually) | Interactive explainers of the LLM serving stack: KV cache, paged attention, continuous bat | 0 |
 | [Rumbleback](https://github.com/Arthur031221/Rumbleback) | Replay any past earthquake in the browser: P and S wavefronts from the iasp91 model, real  | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;📚 Documents, study and research <sub>(7)</sub></summary>
+<summary>&nbsp;&nbsp;📚 Documents, study and research <sub>(4)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -163,63 +157,20 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [DoclingGuard](https://github.com/Arthur031221/DoclingGuard) | Offline provenance validation and regression checks for Docling JSON | 2 |
 | [SnipMD](https://github.com/Arthur031221/SnipMD) | Hotkey, drag a box, get Markdown or LaTeX on your clipboard. Offline Mathpix Snip alternat | 2 |
 | [Cardsmith](https://github.com/Arthur031221/Cardsmith) | Offline flashcards from PDFs, slides, and notes. Generate locally, study with SM-2, export | 1 |
-| [LabExplain](https://github.com/Arthur031221/LabExplain) | Offline lab report reader with printed-range priority, cited adult examples, and optional  | 0 |
 | [PaperCompass](https://github.com/Arthur031221/PaperCompass) | Recommendations over your own arXiv library, offline after setup. Not another digest bot. | 0 |
-| [PaperMargins](https://github.com/Arthur031221/PaperMargins) | Read research PDFs with local model explanations and visible source pages | 0 |
-| [Stingier](https://github.com/Arthur031221/Stingier) | Turn dark handwritten note PDFs into white-page print copies. One HTML file, runs in your  | 0 |
 
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(9)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(4)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [ChitWeave](https://github.com/Arthur031221/ChitWeave) | Turn a two-person LINE chat export into a woven picture of when you talk, one row a day an | 1 |
-| [OneCopy](https://github.com/Arthur031221/OneCopy) | Shows which physical copy of React, or any package, each app and linked library in node_mo | 0 |
-| [NodeModulesMap](https://github.com/Arthur031221/NodeModulesMap) | Map npm package file bytes in a portable HTML report and compare installation snapshots. | 0 |
-| [Snootling](https://github.com/Arthur031221/Snootling) | Search the words inside your screenshots, in your browser. Exports one searchable HTML fil | 0 |
-| [WishYouWereHere](https://github.com/Arthur031221/WishYouWereHere) | Turn six places and one line each into a sheet of postage stamps. Send one link and your f | 0 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
-| [Jostle](https://github.com/Arthur031221/Jostle) | A free day planner in one HTML file: drag one task and the rest of the day moves around yo | 0 |
 | [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 0 |
 | [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 0 |
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(4)</sub></summary>
-<br>
-
-| Project | What it does | Stars |
-|:--|:--|--:|
-| [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 1 |
-| [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 1 |
-| [Squelchy](https://github.com/Arthur031221/Squelchy) | Bounded live command output with exact logs and preserved exit status | 0 |
-| [Beholden](https://github.com/Arthur031221/Beholden) | Turn a GitHub repo&#x27;s star count into a thank-you sky you drag into shape, save as a pictur | 0 |
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧾 Everyday apps <sub>(2)</sub></summary>
-<br>
-
-| Project | What it does | Stars |
-|:--|:--|--:|
-| [ReceiptWise](https://github.com/Arthur031221/ReceiptWise) | Local receipt and warranty tracker with OCR, spend summaries, and printed deadline reminde | 0 |
-| [ReelRecipe](https://github.com/Arthur031221/ReelRecipe) | Turn local cooking videos into recipe cards with Whisper, GLM-OCR, Ollama, and Mealie JSON | 0 |
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧩 Other tools <sub>(2)</sub></summary>
-<br>
-
-| Project | What it does | Stars |
-|:--|:--|--:|
-| [Finchling](https://github.com/Arthur031221/Finchling) | Streaming Mandarin speech into local English captions and cursor input with optional Jev d | 0 |
-| [Dollopify](https://github.com/Arthur031221/Dollopify) | Split a restaurant bill by who ate what, shared plates included, and send the whole bill a | 0 |
 
 </details>
 
@@ -228,7 +179,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=f0f7f1d0"><img src="assets/stars-light.svg?v=183988f0" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=28288f51"><img src="assets/stars-light.svg?v=97193b1d" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
