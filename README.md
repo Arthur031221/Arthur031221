@@ -121,7 +121,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 14 personal projects</b></summary>
+<summary><b>All 16 personal projects</b></summary>
 <br>
 
 <details open>
@@ -171,6 +171,17 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
 | [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 0 |
 | [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 0 |
+
+</details>
+
+<details open>
+<summary>&nbsp;&nbsp;⚙️ Git, CI and build <sub>(2)</sub></summary>
+<br>
+
+| Project | What it does | Stars |
+|:--|:--|--:|
+| [WorktreePortCheck](https://github.com/Arthur031221/WorktreePortCheck) | Check whether a port listener runs from the Git worktree you are testing | 0 |
+| [GHARerunLedger](https://github.com/Arthur031221/GHARerunLedger) | Inspect GitHub Actions rerun attempts and replay saved metadata offline. | 0 |
 
 </details>
 
