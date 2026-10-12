@@ -121,7 +121,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 19 personal projects</b></summary>
+<summary><b>All 20 personal projects</b></summary>
 <br>
 
 <details open>
@@ -187,13 +187,14 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧩 Other tools <sub>(2)</sub></summary>
+<summary>&nbsp;&nbsp;🧩 Other tools <sub>(3)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [Unwedged](https://github.com/Arthur031221/Unwedged) | Plan and replay furniture turning routes in a measured floor plan. | 1 |
 | [Reachbloom](https://github.com/Arthur031221/Reachbloom) | Explore dated transit timetables, reachable stops and two origins on a map | 0 |
+| [Glimpselet](https://github.com/Arthur031221/Glimpselet) | A floating screen companion with explicit sharing, restricted answers, and local passive n | 0 |
 
 </details>
 
