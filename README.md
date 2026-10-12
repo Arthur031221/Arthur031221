@@ -192,8 +192,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
+| [Unwedged](https://github.com/Arthur031221/Unwedged) | Plan and replay furniture turning routes in a measured floor plan. | 1 |
 | [Reachbloom](https://github.com/Arthur031221/Reachbloom) | Explore dated transit timetables, reachable stops and two origins on a map | 0 |
-| [Unwedged](https://github.com/Arthur031221/Unwedged) | Plan and replay furniture turning routes in a measured floor plan. | 0 |
 
 </details>
 
@@ -202,7 +202,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=fe47f674"><img src="assets/stars-light.svg?v=e493c45d" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=5ac56d30"><img src="assets/stars-light.svg?v=893813a6" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
