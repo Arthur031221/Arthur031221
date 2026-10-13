@@ -168,7 +168,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 8 |
+| [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 9 |
 | [ChitWeave](https://github.com/Arthur031221/ChitWeave) | Turn a two-person LINE chat export into a woven picture of when you talk, one row a day an | 1 |
 | [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 1 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
@@ -203,7 +203,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=dbc7b3c9"><img src="assets/stars-light.svg?v=60568bd4" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=30ab0da6"><img src="assets/stars-light.svg?v=c36ce749" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
