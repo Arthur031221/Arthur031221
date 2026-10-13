@@ -43,7 +43,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
 <details>
-<summary><b>All 94 projects with my merged pull requests</b></summary>
+<summary><b>All 95 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -79,10 +79,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🔌 Hardware, robotics and firmware <sub>(4)</sub></summary>
+<summary>&nbsp;&nbsp;🔌 Hardware, robotics and firmware <sub>(5)</sub></summary>
 <br>
 
-[canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
