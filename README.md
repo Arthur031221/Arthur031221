@@ -168,7 +168,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
-| [Sunspill](https://github.com/Arthur031221/Sunspill) | Set up your own room on a phone, then see where the sun lands on its floor by the hour and | 13 |
+| [Sunspill](https://github.com/Arthur031221/Sunspill) | Plan a room on an OpenStreetMap building and see where sunlight falls through the day and  | 13 |
 | [ChitWeave](https://github.com/Arthur031221/ChitWeave) | Turn a two-person LINE chat export into a woven picture of when you talk, one row a day an | 1 |
 | [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 1 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
