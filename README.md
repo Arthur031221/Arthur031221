@@ -42,6 +42,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg"><img src="assets/oss-light.svg" width="560" alt="Open source contributions"></picture></a></p>
 
+<p align="center"><a href="https://www.holopin.io/@arthur031221"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbHJxaGU4aGMzNjU4MGZqd3dsZHgxaG93IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="120" alt="Dapr Runtime Contributor badge, issued by the Dapr maintainers for dapr/dapr#10776"/></a><br><sub>Dapr Runtime Contributor, issued by the Dapr maintainers for <a href="https://github.com/dapr/dapr/pull/10776">dapr/dapr#10776</a></sub></p>
+
 <details>
 <summary><b>All 105 projects with my merged pull requests</b></summary>
 <br>
