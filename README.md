@@ -20,8 +20,8 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 <div align="center">
 <table>
-<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=6162bd58" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
-<tr><td width="26%" align="center" valign="middle">🤗&nbsp;<b><a href="https://github.com/huggingface/sentence-transformers">sentence-transformers</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-huggingface-sentence-transformers-stars.svg?v=bd49cb9b" height="20" alt="GitHub stars of huggingface/sentence-transformers"/></td><td valign="middle"><b>MaxSim scoring now stays within the memory budget when a batch mixes long and short queries.</b><br>With 200 queries of 16 tokens, one query of 2,000 tokens and four documents of 1,000 tokens, extra peak CUDA memory fell from 869.7 MiB to 18.3 MiB with identical scores.&nbsp;<a href="https://github.com/huggingface/sentence-transformers/pull/4153">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=038453d7" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🤗&nbsp;<b><a href="https://github.com/huggingface/sentence-transformers">sentence-transformers</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-huggingface-sentence-transformers-stars.svg?v=10eb2e68" height="20" alt="GitHub stars of huggingface/sentence-transformers"/></td><td valign="middle"><b>MaxSim scoring now stays within the memory budget when a batch mixes long and short queries.</b><br>With 200 queries of 16 tokens, one query of 2,000 tokens and four documents of 1,000 tokens, extra peak CUDA memory fell from 869.7 MiB to 18.3 MiB with identical scores.&nbsp;<a href="https://github.com/huggingface/sentence-transformers/pull/4153">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-dmlc-xgboost-stars.svg?v=9159f7ce" height="20" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
 </table>
 </div>
@@ -123,7 +123,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 21 personal projects</b></summary>
+<summary><b>All 22 personal projects</b></summary>
 <br>
 
 <details open>
@@ -165,7 +165,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(5)</sub></summary>
+<summary>&nbsp;&nbsp;🌐 Web and JavaScript debugging <sub>(6)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -175,6 +175,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [Deadpan](https://github.com/Arthur031221/Deadpan) | Passport photos that pass. A live camera guide in your browser checks head size against th | 1 |
 | [OohAlive](https://github.com/Arthur031221/OohAlive) | Draw an arrow on a photo and it flows that way. Download the loop as a GIF. Free, in your  | 0 |
 | [GlyphSprout](https://github.com/Arthur031221/GlyphSprout) | A browser workshop for turning handwriting pages into editable Latin, Han and kana font su | 0 |
+| [Ridgereel](https://github.com/Arthur031221/Ridgereel) | Turn a GPX, TCX or FIT file into a 3D terrain flyover video in your browser, with nothing  | 0 |
 
 </details>
 
