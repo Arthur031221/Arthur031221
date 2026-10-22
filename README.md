@@ -20,9 +20,9 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 <div align="center">
 <table>
-<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=f0bc5d5b" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=e99399a2" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🤗&nbsp;<b><a href="https://github.com/huggingface/sentence-transformers">sentence-transformers</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-huggingface-sentence-transformers-stars.svg?v=87b5550b" height="20" alt="GitHub stars of huggingface/sentence-transformers"/></td><td valign="middle"><b>MaxSim scoring now stays within the memory budget when a batch mixes long and short queries.</b><br>With 200 queries of 16 tokens, one query of 2,000 tokens and four documents of 1,000 tokens, extra peak CUDA memory fell from 869.7 MiB to 18.3 MiB with identical scores.&nbsp;<a href="https://github.com/huggingface/sentence-transformers/pull/4153">PR&nbsp;→</a></td></tr>
-<tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-dmlc-xgboost-stars.svg?v=6b872545" height="20" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-dmlc-xgboost-stars.svg?v=318e85ce" height="20" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
 </table>
 </div>
 
@@ -123,11 +123,11 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 24 personal projects</b></summary>
+<summary><b>All 25 personal projects</b></summary>
 <br>
 
 <details open>
-<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(5)</sub></summary>
+<summary>&nbsp;&nbsp;🤖 Coding agents and AI tooling <sub>(6)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -137,6 +137,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [ToolCallCheck](https://github.com/Arthur031221/ToolCallCheck) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
 | [ModelShift](https://github.com/Arthur031221/ModelShift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
 | [Graticule](https://github.com/Arthur031221/Graticule) | A cartography skill for coding agents. It checks a map against 25 rules (raw counts, Merca | 0 |
+| [Token-Beggar](https://github.com/Arthur031221/Token-Beggar) | A coding agent skill that routes each task to the cheapest model and effort that keeps the | 0 |
 
 </details>
 
