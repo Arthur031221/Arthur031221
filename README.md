@@ -20,7 +20,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 <div align="center">
 <table>
-<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=81b2366c" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=116c802c" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🤗&nbsp;<b><a href="https://github.com/huggingface/sentence-transformers">sentence-transformers</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-huggingface-sentence-transformers-stars.svg?v=3922d5ce" height="20" alt="GitHub stars of huggingface/sentence-transformers"/></td><td valign="middle"><b>MaxSim scoring now stays within the memory budget when a batch mixes long and short queries.</b><br>With 200 queries of 16 tokens, one query of 2,000 tokens and four documents of 1,000 tokens, extra peak CUDA memory fell from 869.7 MiB to 18.3 MiB with identical scores.&nbsp;<a href="https://github.com/huggingface/sentence-transformers/pull/4153">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-dmlc-xgboost-stars.svg?v=c32d97c0" height="20" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
 </table>
@@ -45,80 +45,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://www.holopin.io/@arthur031221"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbHJxaGU4aGMzNjU4MGZqd3dsZHgxaG93IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="120" alt="Dapr Runtime Contributor badge, issued by the Dapr maintainers for dapr/dapr#10776"/></a><br><sub>Dapr Runtime Contributor, issued by the Dapr maintainers for <a href="https://github.com/dapr/dapr/pull/10776">dapr/dapr#10776</a></sub></p>
 
 <details>
-<summary><b>All 124 projects with my merged pull requests</b></summary>
+<summary><b>All 0 projects with my merged pull requests</b></summary>
 <br>
 
-<details open>
-<summary>&nbsp;&nbsp;🤖 AI and machine learning <sub>(16)</sub></summary>
-<br>
 
-[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-YuE](https://github.com/RevolutionLA/awesome-YuE/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [awesome-mlx](https://github.com/antranapp/awesome-mlx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DocsGPT](https://github.com/arc53/DocsGPT/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [agent-device](https://github.com/callstack/agent-device/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [xgboost](https://github.com/dmlc/xgboost/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [gufo](https://github.com/gufo-org/gufo/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pytorch-image-models](https://github.com/huggingface/pytorch-image-models/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [hypit](https://github.com/hypit-ai/hypit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [lancedb](https://github.com/lancedb/lancedb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [FunASR](https://github.com/modelscope/FunASR/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openchamber](https://github.com/openchamber/openchamber/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [recommenders](https://github.com/recommenders-team/recommenders/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [stanza](https://github.com/stanfordnlp/stanza/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [burn](https://github.com/tracel-ai/burn/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧠 Neuroscience and brain-computer interfaces <sub>(4)</sub></summary>
-<br>
-
-[moabb](https://github.com/NeuroTechX/moabb/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [braindecode](https://github.com/braindecode/braindecode/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [pymdp](https://github.com/infer-actively/pymdp/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [psychopy](https://github.com/psychopy/psychopy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🧊 3D, vision and graphics <sub>(15)</sub></summary>
-<br>
-
-[Babylon.js](https://github.com/BabylonJS/Babylon.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [3d-tiles](https://github.com/CesiumGS/3d-tiles/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [CloudCompare](https://github.com/CloudCompare/CloudCompare/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ImageMagick](https://github.com/ImageMagick/ImageMagick/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [orillusion](https://github.com/Orillusion/orillusion/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [AliceVision](https://github.com/alicevision/AliceVision/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Meshroom](https://github.com/alicevision/Meshroom/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [colmap](https://github.com/colmap/colmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [model-viewer](https://github.com/google/model-viewer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openFrameworks](https://github.com/openframeworks/openFrameworks/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [splat-transform](https://github.com/playcanvas/splat-transform/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [supersplat](https://github.com/playcanvas/supersplat/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [postprocessing](https://github.com/pmndrs/postprocessing/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Pillow](https://github.com/python-pillow/Pillow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;⚡ GPU, HPC and scientific computing <sub>(14)</sub></summary>
-<br>
-
-[Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MultiQC](https://github.com/MultiQC/MultiQC/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🔌 Hardware, robotics and firmware <sub>(5)</sub></summary>
-<br>
-
-[drake](https://github.com/RobotLocomotion/drake/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [canboatjs](https://github.com/canboat/canboatjs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [webots](https://github.com/cyberbotics/webots/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [rtabmap](https://github.com/introlab/rtabmap/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [allwpilib](https://github.com/wpilibsuite/allwpilib/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🎵 Audio and signal processing <sub>(2)</sub></summary>
-<br>
-
-[faust](https://github.com/grame-cncm/faust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kfr](https://github.com/kfrlib/kfr/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🛠️ Languages, compilers and developer tools <sub>(7)</sub></summary>
-<br>
-
-[futhark](https://github.com/diku-dk/futhark/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [luceneutil](https://github.com/mikemccand/luceneutil/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Odin](https://github.com/odin-lang/Odin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [smlnj](https://github.com/smlnj/smlnj/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [testng](https://github.com/testng-team/testng/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [v](https://github.com/vlang/v/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nox](https://github.com/wntrblm/nox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;🖥️ Apps and productivity <sub>(3)</sub></summary>
-<br>
-
-[naps2](https://github.com/cyanfish/naps2/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
-
-<details open>
-<summary>&nbsp;&nbsp;✨ Other <sub>(58)</sub></summary>
-<br>
-
-[ANTs](https://github.com/ANTsX/ANTs/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ATSynEdit](https://github.com/Alexey-T/ATSynEdit/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [UniGetUI](https://github.com/Devolutions/UniGetUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DroidDeck](https://github.com/Droid-Deck/DroidDeck/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [evox](https://github.com/EMI-Group/evox/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [saw-script](https://github.com/GaloisInc/saw-script/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Indy](https://github.com/IndySockets/Indy/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DALI](https://github.com/NVIDIA/DALI/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kaolin](https://github.com/NVIDIAGameWorks/kaolin/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Sana](https://github.com/NVlabs/Sana/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Slicer](https://github.com/Slicer/Slicer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [actix-web](https://github.com/actix/actix-web/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [apexcharts.js](https://github.com/apexcharts/apexcharts.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [apptainer](https://github.com/apptainer/apptainer/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [llrt](https://github.com/awslabs/llrt/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mediamtx](https://github.com/bluenviron/mediamtx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [brian2](https://github.com/brian-team/brian2/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cdk](https://github.com/cashubtc/cdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [vinext](https://github.com/cloudflare/vinext/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [workers-sdk](https://github.com/cloudflare/workers-sdk/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [coregex](https://github.com/coregx/coregex/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [doodle](https://github.com/creativescala/doodle/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [dapr](https://github.com/dapr/dapr/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [emqx](https://github.com/emqx/emqx/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openarm](https://github.com/enactic/openarm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [fairlearn](https://github.com/fairlearn/fairlearn/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [fyne](https://github.com/fyne-io/fyne/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [engine](https://github.com/galacean/engine/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [gyroflow](https://github.com/gyroflow/gyroflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [sentence-transformers](https://github.com/huggingface/sentence-transformers/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [joern](https://github.com/joernio/joern/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zig-esp-idf-sample](https://github.com/kassane/zig-esp-idf-sample/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [kepler.gl](https://github.com/keplergl/kepler.gl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Maestro](https://github.com/mobile-dev-inc/Maestro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [parsons](https://github.com/move-coop/parsons/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [Nim](https://github.com/nim-lang/Nim/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nullclaw](https://github.com/nullclaw/nullclaw/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openvino](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [node-redis](https://github.com/redis/node-redis/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [remotion](https://github.com/remotion-dev/remotion/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [scikit-bio](https://github.com/scikit-bio/scikit-bio/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [sequelize](https://github.com/sequelize/sequelize/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [DiPlay](https://github.com/shihabal3amri/DiPlay/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [sql.js](https://github.com/sql-js/sql.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [taskflow](https://github.com/taskflow/taskflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [trpc](https://github.com/trpc/trpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [uccl](https://github.com/uccl-project/uccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [USearch](https://github.com/unum-cloud/USearch/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [hls.js](https://github.com/video-dev/hls.js/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [xsimd](https://github.com/xtensor-stack/xsimd/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zml](https://github.com/zml/zml/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zwasm](https://github.com/zwasm/zwasm/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [zxing](https://github.com/zxing/zxing/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
-
-</details>
 
 </details>
 
