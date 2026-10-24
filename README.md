@@ -132,10 +132,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 | Project | What it does | Stars |
 |:--|:--|--:|
+| [Token-Beggar](https://github.com/Arthur031221/Token-Beggar) | A coding agent skill that routes each task to the cheapest model and effort that keeps the | 2 |
 | [Cliffhanger](https://github.com/Arthur031221/Cliffhanger) | Stop hook and skill that keeps Claude Code from ending the turn with work still owed, and  | 1 |
 | [AgentLeaks](https://github.com/Arthur031221/AgentLeaks) | Find, redact and block the API keys in Claude Code, Codex, Cursor, Gemini CLI, Cline and A | 1 |
 | [ToolCallCheck](https://github.com/Arthur031221/ToolCallCheck) | Check nested tool arguments, streamed calls and the result handoff on a chat endpoint. | 1 |
-| [Token-Beggar](https://github.com/Arthur031221/Token-Beggar) | A coding agent skill that routes each task to the cheapest model and effort that keeps the | 1 |
 | [ModelShift](https://github.com/Arthur031221/ModelShift) | Find model IDs in your repo that retire soon, replay real prompts on the replacement, and  | 0 |
 | [Graticule](https://github.com/Arthur031221/Graticule) | A cartography skill for coding agents. It checks a map against 25 rules (raw counts, Merca | 0 |
 
@@ -199,10 +199,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 | Project | What it does | Stars |
 |:--|:--|--:|
 | [Unwedged](https://github.com/Arthur031221/Unwedged) | Plan and replay furniture turning routes in a measured floor plan. | 3 |
+| [AiSniff](https://github.com/Arthur031221/AiSniff) | Paste English or Traditional Chinese text and see which phrases read like AI wrote them, w | 1 |
 | [Reachbloom](https://github.com/Arthur031221/Reachbloom) | Explore dated transit timetables, reachable stops and two origins on a map | 0 |
 | [Cleartake](https://github.com/Arthur031221/Cleartake) | Clean noisy speech recordings locally, hit a loudness target and check that no word change | 0 |
 | [SeatReason](https://github.com/Arthur031221/SeatReason) | A classroom seating planner that names the few rules that clash and checks a repair before | 0 |
-| [AiSniff](https://github.com/Arthur031221/AiSniff) | Paste English or Traditional Chinese text and see which phrases read like AI wrote them, w | 0 |
 
 </details>
 
@@ -211,7 +211,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <details open>
 <summary><b>Stars over the last 30 days</b></summary>
 <br>
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=85011a63"><img src="assets/stars-light.svg?v=03ab3233" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stars-dark.svg?v=581e21e5"><img src="assets/stars-light.svg?v=6f79740a" width="720" alt="Hand-drawn chart of stars across my projects over the last 30 days"></picture></p>
 
 </details>
 
