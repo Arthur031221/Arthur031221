@@ -45,7 +45,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 <p align="center"><a href="https://www.holopin.io/@arthur031221"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbHJxaGU4aGMzNjU4MGZqd3dsZHgxaG93IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="120" alt="Dapr Runtime Contributor badge, issued by the Dapr maintainers for dapr/dapr#10776"/></a><br><sub>Dapr Runtime Contributor, issued by the Dapr maintainers for <a href="https://github.com/dapr/dapr/pull/10776">dapr/dapr#10776</a></sub></p>
 
 <details>
-<summary><b>All 131 projects with my merged pull requests</b></summary>
+<summary><b>All 130 projects with my merged pull requests</b></summary>
 <br>
 
 <details open>
@@ -73,10 +73,10 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;⚡ GPU, HPC and scientific computing <sub>(15)</sub></summary>
+<summary>&nbsp;&nbsp;⚡ GPU, HPC and scientific computing <sub>(14)</sub></summary>
 <br>
 
-[Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MultiQC](https://github.com/MultiQC/MultiQC/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cuda-rust](https://github.com/NVIDIA/cuda-rust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
+[Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [MatX](https://github.com/NVIDIA/MatX/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cccl](https://github.com/NVIDIA/cccl/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cuda-rust](https://github.com/NVIDIA/cuda-rust/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cudf](https://github.com/NVIDIA/cudf/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [OpenBLAS](https://github.com/OpenMathLib/OpenBLAS/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [cp2k](https://github.com/cp2k/cp2k/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [highway](https://github.com/google/highway/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [mpi4py](https://github.com/mpi4py/mpi4py/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [nextflow](https://github.com/nextflow-io/nextflow/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [ohpc](https://github.com/openhpc/ohpc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [openmc](https://github.com/openmc-dev/openmc/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [numpyro](https://github.com/pyro-ppl/numpyro/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged), [oneTBB](https://github.com/uxlfoundation/oneTBB/pulls?q=is%3Apr+author%3AArthur031221+is%3Amerged)
 
 </details>
 
