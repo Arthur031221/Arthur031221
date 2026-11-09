@@ -20,7 +20,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 
 <div align="center">
 <table>
-<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=a1711637" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
+<tr><td width="26%" align="center" valign="middle">🦥&nbsp;<b><a href="https://github.com/unslothai/unsloth">unsloth</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-unslothai-unsloth-stars.svg?v=c09d7032" height="20" alt="GitHub stars of unslothai/unsloth"/></td><td valign="middle"><b>Fixes padding mask handling so left-padded prompts produce consistent text with cached Llama and Qwen3 attention.</b><br>Added CPU regression tests for both decoders and ran the test command and Qwen2.5-0.5B-Instruct generation on an RTX 5090.&nbsp;<a href="https://github.com/unslothai/unsloth/pull/13256">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🤗&nbsp;<b><a href="https://github.com/huggingface/sentence-transformers">sentence-transformers</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-huggingface-sentence-transformers-stars.svg?v=d1acad48" height="20" alt="GitHub stars of huggingface/sentence-transformers"/></td><td valign="middle"><b>MaxSim scoring now stays within the memory budget when a batch mixes long and short queries.</b><br>With 200 queries of 16 tokens, one query of 2,000 tokens and four documents of 1,000 tokens, extra peak CUDA memory fell from 869.7 MiB to 18.3 MiB with identical scores.&nbsp;<a href="https://github.com/huggingface/sentence-transformers/pull/4153">PR&nbsp;→</a></td></tr>
 <tr><td width="26%" align="center" valign="middle">🌲&nbsp;<b><a href="https://github.com/dmlc/xgboost">xgboost</a></b><br><sub><sub>&nbsp;</sub></sub><br><img src="assets/badge-contrib-dmlc-xgboost-stars.svg?v=9463d817" height="20" alt="GitHub stars of dmlc/xgboost"/></td><td valign="middle"><b>XGBoost now rejects masked NumPy inputs that could silently corrupt training data.</b><br>Tests confirm masked inputs raise a clear error, while arrays with no masked elements remain accepted.&nbsp;<a href="https://github.com/dmlc/xgboost/pull/12636">PR&nbsp;→</a></td></tr>
 </table>
@@ -123,7 +123,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details>
-<summary><b>All 31 personal projects</b></summary>
+<summary><b>All 32 personal projects</b></summary>
 <br>
 
 <details open>
@@ -142,7 +142,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 </details>
 
 <details open>
-<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(4)</sub></summary>
+<summary>&nbsp;&nbsp;🧠 Local LLMs and GPUs <sub>(5)</sub></summary>
 <br>
 
 | Project | What it does | Stars |
@@ -151,6 +151,7 @@ understanding when associative memory defines a well-behaved energy and why samp
 | [LLMDoctor](https://github.com/Arthur031221/LLMDoctor) | brew doctor for local LLMs: dedupe Ollama, LM Studio, HF and MLX weights, catch stale temp | 1 |
 | [Burstwise](https://github.com/Arthur031221/Burstwise) | Local photo culling on your own GPU. Groups bursts, flags blur, closed eyes and clipped ex | 0 |
 | [Unfaded](https://github.com/Arthur031221/Unfaded) | Restore old family photos on your own GPU and see what every step changed: scan splitting, | 0 |
+| [Spokecut](https://github.com/Arthur031221/Spokecut) | Edit talking video by editing its transcript. Delete a word and it is gone from the video. | 0 |
 
 </details>
 
