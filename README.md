@@ -4,7 +4,7 @@ I am an undergraduate at National Tsing Hua University in Taiwan, double majorin
 
 I also send fixes to open source libraries I depend on. In [unsloth](https://github.com/unslothai/unsloth/pull/13256), left-padded prompts now generate the same text with cached Llama and Qwen3 attention. [xgboost](https://github.com/dmlc/xgboost/pull/12636) now refuses NumPy masked arrays, which used to slip through and could silently corrupt training data. MaxSim scoring in [sentence-transformers](https://github.com/huggingface/sentence-transformers/pull/4153) stays within its memory budget when a batch mixes long and short queries.
 
-Tools I wrote and maintain:
+Selected tools I built:
 
 - [Sunspill](https://github.com/Arthur031221/Sunspill) shows where sunlight lands in a room, by hour and season
 - [Rumbleback](https://github.com/Arthur031221/Rumbleback) replays past earthquakes in the browser
